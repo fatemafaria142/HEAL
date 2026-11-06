@@ -1,0 +1,12 @@
+[
+  {
+    "query_id": "HEAL_001",
+    "question": "How many patients are in the database?",
+    "gold_sql": "SELECT COUNT(*) AS patient_count FROM patients;"
+  },
+  {
+    "query_id": "HEAL_002",
+    "question": "List patients who have a diagnosis of hypertension.",
+    "gold_sql": "SELECT DISTINCT p.patient_id, p.name FROM patients p JOIN diagnoses d ON p.patient_id = d.patient_id WHERE d.diagnosis_name ILIKE '%hypertension%' OR d.icd10_code = 'I10';"
+  }
+]
