@@ -1,0 +1,395 @@
+diagnosis_id,patient_id,visit_id,icd10_code,diagnosis_name,diagnosis_date,status,created_at
+1,1,1,I10,Hypertension,2026-04-27,Active,2026-08-23 15:29:41
+2,1,1,E11,Type 2 Diabetes Mellitus,2026-04-27,Active,2026-08-23 15:29:41
+3,1,2,I10,Hypertension,2026-07-26,Active,2026-08-23 15:29:41
+4,1,2,E11,Type 2 Diabetes Mellitus,2026-07-26,Active,2026-08-23 15:29:41
+5,2,3,I10,Hypertension,2024-10-14,Active,2026-08-23 15:29:41
+6,2,3,E11,Type 2 Diabetes Mellitus,2024-10-14,Active,2026-08-23 15:29:41
+7,2,4,I10,Hypertension,2025-01-09,Active,2026-08-23 15:29:41
+8,2,4,E11,Type 2 Diabetes Mellitus,2025-01-09,Active,2026-08-23 15:29:41
+9,3,5,I10,Hypertension,2025-08-22,Active,2026-08-23 15:29:41
+10,3,5,E11,Type 2 Diabetes Mellitus,2025-08-22,Active,2026-08-23 15:29:41
+11,3,6,I10,Hypertension,2025-10-23,Active,2026-08-23 15:29:41
+12,3,6,E11,Type 2 Diabetes Mellitus,2025-10-23,Active,2026-08-23 15:29:41
+13,4,7,I10,Hypertension,2025-04-20,Active,2026-08-23 15:29:41
+14,4,7,E11,Type 2 Diabetes Mellitus,2025-04-20,Active,2026-08-23 15:29:41
+15,4,8,I10,Hypertension,2025-06-27,Active,2026-08-23 15:29:41
+16,4,8,E11,Type 2 Diabetes Mellitus,2025-06-27,Active,2026-08-23 15:29:41
+17,5,9,I10,Hypertension,2025-06-09,Active,2026-08-23 15:29:41
+18,5,9,E11,Type 2 Diabetes Mellitus,2025-06-09,Active,2026-08-23 15:29:41
+19,5,10,I10,Hypertension,2025-07-14,Active,2026-08-23 15:29:41
+20,5,10,E11,Type 2 Diabetes Mellitus,2025-07-14,Active,2026-08-23 15:29:41
+21,5,11,I10,Hypertension,2025-12-06,Active,2026-08-23 15:29:41
+22,5,11,E11,Type 2 Diabetes Mellitus,2025-12-06,Active,2026-08-23 15:29:41
+23,6,12,I10,Hypertension,2025-01-13,Active,2026-08-23 15:29:41
+24,6,12,E11,Type 2 Diabetes Mellitus,2025-01-13,Active,2026-08-23 15:29:41
+25,6,13,I10,Hypertension,2025-02-23,Active,2026-08-23 15:29:41
+26,6,13,E11,Type 2 Diabetes Mellitus,2025-02-23,Active,2026-08-23 15:29:41
+27,6,14,I10,Hypertension,2025-04-03,Active,2026-08-23 15:29:41
+28,6,14,E11,Type 2 Diabetes Mellitus,2025-04-03,Active,2026-08-23 15:29:41
+29,6,15,I10,Hypertension,2025-08-17,Active,2026-08-23 15:29:41
+30,6,15,E11,Type 2 Diabetes Mellitus,2025-08-17,Active,2026-08-23 15:29:41
+31,7,16,I10,Hypertension,2024-10-09,Active,2026-08-23 15:29:41
+32,7,16,E11,Type 2 Diabetes Mellitus,2024-10-09,Active,2026-08-23 15:29:41
+33,7,17,I10,Hypertension,2024-12-09,Active,2026-08-23 15:29:41
+34,7,17,E11,Type 2 Diabetes Mellitus,2024-12-09,Active,2026-08-23 15:29:41
+35,7,18,I10,Hypertension,2025-01-31,Active,2026-08-23 15:29:41
+36,7,18,E11,Type 2 Diabetes Mellitus,2025-01-31,Active,2026-08-23 15:29:41
+37,7,19,I10,Hypertension,2025-06-09,Active,2026-08-23 15:29:41
+38,7,19,E11,Type 2 Diabetes Mellitus,2025-06-09,Active,2026-08-23 15:29:41
+39,7,20,I10,Hypertension,2025-04-03,Active,2026-08-23 15:29:41
+40,7,20,E11,Type 2 Diabetes Mellitus,2025-04-03,Active,2026-08-23 15:29:41
+41,7,21,I10,Hypertension,2025-11-23,Active,2026-08-23 15:29:41
+42,7,21,E11,Type 2 Diabetes Mellitus,2025-11-23,Active,2026-08-23 15:29:41
+43,8,22,I10,Hypertension,2024-07-12,Active,2026-08-23 15:29:41
+44,8,22,E11,Type 2 Diabetes Mellitus,2024-07-12,Active,2026-08-23 15:29:41
+45,8,23,I10,Hypertension,2024-08-15,Active,2026-08-23 15:29:41
+46,8,23,E11,Type 2 Diabetes Mellitus,2024-08-15,Active,2026-08-23 15:29:41
+47,8,24,I10,Hypertension,2024-10-28,Active,2026-08-23 15:29:41
+48,8,24,E11,Type 2 Diabetes Mellitus,2024-10-28,Active,2026-08-23 15:29:41
+49,8,25,I10,Hypertension,2024-10-28,Active,2026-08-23 15:29:41
+50,8,25,E11,Type 2 Diabetes Mellitus,2024-10-28,Active,2026-08-23 15:29:41
+51,8,26,I10,Hypertension,2025-02-13,Active,2026-08-23 15:29:41
+52,8,26,E11,Type 2 Diabetes Mellitus,2025-02-13,Active,2026-08-23 15:29:41
+53,9,27,I10,Hypertension,2026-03-23,Active,2026-08-23 15:29:41
+54,9,27,E11,Type 2 Diabetes Mellitus,2026-03-23,Active,2026-08-23 15:29:41
+55,9,28,I10,Hypertension,2026-05-15,Active,2026-08-23 15:29:41
+56,9,28,E11,Type 2 Diabetes Mellitus,2026-05-15,Active,2026-08-23 15:29:41
+57,10,29,I10,Hypertension,2026-07-16,Active,2026-08-23 15:29:41
+58,10,29,E11,Type 2 Diabetes Mellitus,2026-07-16,Active,2026-08-23 15:29:41
+59,11,30,I10,Hypertension,2025-12-27,Active,2026-08-23 15:29:41
+60,11,30,E11,Type 2 Diabetes Mellitus,2025-12-27,Active,2026-08-23 15:29:41
+61,11,31,I10,Hypertension,2026-02-21,Active,2026-08-23 15:29:41
+62,11,31,E11,Type 2 Diabetes Mellitus,2026-02-21,Active,2026-08-23 15:29:41
+63,11,32,I10,Hypertension,2026-04-02,Active,2026-08-23 15:29:41
+64,11,32,E11,Type 2 Diabetes Mellitus,2026-04-02,Active,2026-08-23 15:29:41
+65,11,33,I10,Hypertension,2026-04-30,Active,2026-08-23 15:29:41
+66,11,33,E11,Type 2 Diabetes Mellitus,2026-04-30,Active,2026-08-23 15:29:41
+67,12,34,I10,Hypertension,2025-04-27,Active,2026-08-23 15:29:41
+68,12,34,E11,Type 2 Diabetes Mellitus,2025-04-27,Active,2026-08-23 15:29:41
+69,12,35,I10,Hypertension,2025-06-23,Active,2026-08-23 15:29:41
+70,12,35,E11,Type 2 Diabetes Mellitus,2025-06-23,Active,2026-08-23 15:29:41
+71,12,36,I10,Hypertension,2025-09-10,Active,2026-08-23 15:29:41
+72,12,36,E11,Type 2 Diabetes Mellitus,2025-09-10,Active,2026-08-23 15:29:41
+73,12,37,I10,Hypertension,2025-11-02,Active,2026-08-23 15:29:41
+74,12,37,E11,Type 2 Diabetes Mellitus,2025-11-02,Active,2026-08-23 15:29:41
+75,13,38,I10,Hypertension,2025-12-20,Active,2026-08-23 15:29:41
+76,13,38,E11,Type 2 Diabetes Mellitus,2025-12-20,Active,2026-08-23 15:29:41
+77,13,39,I10,Hypertension,2026-03-11,Active,2026-08-23 15:29:41
+78,13,39,E11,Type 2 Diabetes Mellitus,2026-03-11,Active,2026-08-23 15:29:41
+79,13,40,I10,Hypertension,2026-05-11,Active,2026-08-23 15:29:41
+80,13,40,E11,Type 2 Diabetes Mellitus,2026-05-11,Active,2026-08-23 15:29:41
+81,13,41,I10,Hypertension,2026-05-31,Active,2026-08-23 15:29:41
+82,13,41,E11,Type 2 Diabetes Mellitus,2026-05-31,Active,2026-08-23 15:29:41
+83,14,42,I10,Hypertension,2025-09-29,Active,2026-08-23 15:29:41
+84,14,42,E11,Type 2 Diabetes Mellitus,2025-09-29,Active,2026-08-23 15:29:41
+85,14,43,I10,Hypertension,2025-11-20,Active,2026-08-23 15:29:41
+86,14,43,E11,Type 2 Diabetes Mellitus,2025-11-20,Active,2026-08-23 15:29:41
+87,14,44,I10,Hypertension,2026-02-22,Active,2026-08-23 15:29:41
+88,14,44,E11,Type 2 Diabetes Mellitus,2026-02-22,Active,2026-08-23 15:29:41
+89,14,45,I10,Hypertension,2026-06-26,Active,2026-08-23 15:29:41
+90,14,45,E11,Type 2 Diabetes Mellitus,2026-06-26,Active,2026-08-23 15:29:41
+91,15,46,I10,Hypertension,2025-03-11,Active,2026-08-23 15:29:41
+92,15,46,E11,Type 2 Diabetes Mellitus,2025-03-11,Active,2026-08-23 15:29:41
+93,15,47,I10,Hypertension,2025-04-14,Active,2026-08-23 15:29:41
+94,15,47,E11,Type 2 Diabetes Mellitus,2025-04-14,Active,2026-08-23 15:29:41
+95,15,48,I10,Hypertension,2025-08-26,Active,2026-08-23 15:29:41
+96,15,48,E11,Type 2 Diabetes Mellitus,2025-08-26,Active,2026-08-23 15:29:41
+97,15,49,I10,Hypertension,2025-09-04,Active,2026-08-23 15:29:41
+98,15,49,E11,Type 2 Diabetes Mellitus,2025-09-04,Active,2026-08-23 15:29:41
+99,15,50,I10,Hypertension,2025-09-27,Active,2026-08-23 15:29:41
+100,15,50,E11,Type 2 Diabetes Mellitus,2025-09-27,Active,2026-08-23 15:29:41
+101,16,51,J45,Asthma,2026-04-18,Active,2026-08-23 15:29:41
+102,16,52,I25,Chronic Ischemic Heart Disease,2026-06-04,Active,2026-08-23 15:29:41
+103,17,53,I10,Hypertension,2025-01-23,Active,2026-08-23 15:29:41
+104,17,54,I10,Hypertension,2025-03-04,Active,2026-08-23 15:29:41
+105,17,55,I25,Chronic Ischemic Heart Disease,2025-04-07,Active,2026-08-23 15:29:41
+106,17,56,I25,Chronic Ischemic Heart Disease,2025-07-25,Active,2026-08-23 15:29:41
+107,18,57,E11,Type 2 Diabetes Mellitus,2025-11-04,Active,2026-08-23 15:29:41
+108,18,58,E11,Type 2 Diabetes Mellitus,2026-01-05,Active,2026-08-23 15:29:41
+109,18,59,I25,Chronic Ischemic Heart Disease,2026-03-14,Active,2026-08-23 15:29:41
+110,18,60,I25,Chronic Ischemic Heart Disease,2026-02-26,Active,2026-08-23 15:29:41
+111,18,61,I25,Chronic Ischemic Heart Disease,2026-07-18,Active,2026-08-23 15:29:41
+112,19,62,I10,Hypertension,2025-01-09,Active,2026-08-23 15:29:41
+113,19,63,I10,Hypertension,2025-02-15,Active,2026-08-23 15:29:41
+114,19,64,I10,Hypertension,2025-06-08,Active,2026-08-23 15:29:41
+115,19,65,I25,Chronic Ischemic Heart Disease,2025-07-20,Active,2026-08-23 15:29:41
+116,19,66,I25,Chronic Ischemic Heart Disease,2025-11-01,Active,2026-08-23 15:29:41
+117,19,67,I25,Chronic Ischemic Heart Disease,2026-02-23,Active,2026-08-23 15:29:41
+118,20,68,E11,Type 2 Diabetes Mellitus,2025-11-19,Active,2026-08-23 15:29:41
+119,20,69,E11,Type 2 Diabetes Mellitus,2026-01-14,Active,2026-08-23 15:29:41
+120,20,70,E11,Type 2 Diabetes Mellitus,2026-03-19,Active,2026-08-23 15:29:41
+121,20,71,I25,Chronic Ischemic Heart Disease,2026-02-23,Active,2026-08-23 15:29:41
+122,20,72,I25,Chronic Ischemic Heart Disease,2026-03-19,Active,2026-08-23 15:29:41
+123,20,73,I25,Chronic Ischemic Heart Disease,2026-06-17,Active,2026-08-23 15:29:41
+124,21,74,J45,Asthma,2024-12-06,Active,2026-08-23 15:29:41
+125,21,75,I25,Chronic Ischemic Heart Disease,2025-01-20,Active,2026-08-23 15:29:41
+126,21,76,I25,Chronic Ischemic Heart Disease,2025-04-09,Active,2026-08-23 15:29:41
+127,22,77,E11,Type 2 Diabetes Mellitus,2024-07-09,Active,2026-08-23 15:29:41
+128,22,78,E11,Type 2 Diabetes Mellitus,2024-08-18,Active,2026-08-23 15:29:41
+129,22,79,I25,Chronic Ischemic Heart Disease,2024-12-18,Active,2026-08-23 15:29:41
+130,22,80,I25,Chronic Ischemic Heart Disease,2025-01-26,Active,2026-08-23 15:29:41
+131,22,81,I25,Chronic Ischemic Heart Disease,2024-11-14,Active,2026-08-23 15:29:41
+132,23,82,I10,Hypertension,2026-04-09,Active,2026-08-23 15:29:41
+133,23,83,I10,Hypertension,2026-06-24,Active,2026-08-23 15:29:41
+134,24,84,E11,Type 2 Diabetes Mellitus,2025-12-20,Active,2026-08-23 15:29:41
+135,24,85,I25,Chronic Ischemic Heart Disease,2026-03-08,Active,2026-08-23 15:29:41
+136,25,86,I10,Hypertension,2024-10-16,Active,2026-08-23 15:29:41
+137,25,87,I25,Chronic Ischemic Heart Disease,2024-12-04,Active,2026-08-23 15:29:41
+138,25,88,I25,Chronic Ischemic Heart Disease,2024-12-25,Active,2026-08-23 15:29:41
+139,26,89,J45,Asthma,2026-01-22,Active,2026-08-23 15:29:41
+140,26,90,J45,Asthma,2026-03-08,Active,2026-08-23 15:29:41
+141,26,91,J45,Asthma,2026-05-20,Active,2026-08-23 15:29:41
+142,26,92,J45,Asthma,2026-05-19,Active,2026-08-23 15:29:41
+143,26,93,J45,Asthma,2026-07-25,Active,2026-08-23 15:29:41
+144,27,94,I10,Hypertension,2024-10-08,Active,2026-08-23 15:29:41
+145,27,95,I10,Hypertension,2025-01-05,Active,2026-08-23 15:29:41
+146,28,96,E11,Type 2 Diabetes Mellitus,2026-05-06,Active,2026-08-23 15:29:41
+147,28,97,E11,Type 2 Diabetes Mellitus,2026-07-11,Active,2026-08-23 15:29:41
+148,28,98,E11,Type 2 Diabetes Mellitus,2026-07-11,Active,2026-08-23 15:29:41
+149,29,99,I10,Hypertension,2026-01-19,Active,2026-08-23 15:29:41
+150,29,100,I10,Hypertension,2026-04-07,Active,2026-08-23 15:29:41
+151,29,101,I10,Hypertension,2026-06-28,Active,2026-08-23 15:29:41
+152,30,102,E11,Type 2 Diabetes Mellitus,2025-04-08,Active,2026-08-23 15:29:41
+153,30,103,E11,Type 2 Diabetes Mellitus,2025-05-13,Active,2026-08-23 15:29:41
+154,30,104,E11,Type 2 Diabetes Mellitus,2025-07-23,Active,2026-08-23 15:29:41
+155,30,105,E11,Type 2 Diabetes Mellitus,2025-10-29,Active,2026-08-23 15:29:41
+156,30,106,E11,Type 2 Diabetes Mellitus,2025-09-15,Active,2026-08-23 15:29:41
+157,31,107,I10,Hypertension,2024-08-15,Active,2026-08-23 15:29:41
+158,31,108,I10,Hypertension,2024-11-05,Active,2026-08-23 15:29:41
+159,31,109,I10,Hypertension,2025-01-16,Active,2026-08-23 15:29:41
+160,32,110,I10,Hypertension,2024-08-09,Active,2026-08-23 15:29:41
+161,32,111,I10,Hypertension,2024-10-23,Active,2026-08-23 15:29:41
+162,33,112,I10,Hypertension,2024-09-04,Active,2026-08-23 15:29:41
+163,33,113,I10,Hypertension,2024-11-06,Active,2026-08-23 15:29:41
+164,33,114,I10,Hypertension,2025-01-08,Active,2026-08-23 15:29:41
+165,33,115,I10,Hypertension,2025-05-29,Active,2026-08-23 15:29:41
+166,34,116,I10,Hypertension,2026-01-25,Active,2026-08-23 15:29:41
+167,34,117,I10,Hypertension,2026-04-03,Active,2026-08-23 15:29:41
+168,34,118,I10,Hypertension,2026-06-20,Active,2026-08-23 15:29:41
+169,35,119,I10,Hypertension,2025-04-12,Active,2026-08-23 15:29:41
+170,35,120,I10,Hypertension,2025-06-16,Active,2026-08-23 15:29:41
+171,35,121,I10,Hypertension,2025-06-15,Active,2026-08-23 15:29:41
+172,36,122,J45,Asthma,2024-07-06,Active,2026-08-23 15:29:41
+173,36,123,J45,Asthma,2024-09-26,Active,2026-08-23 15:29:41
+174,37,124,I10,Hypertension,2026-01-24,Active,2026-08-23 15:29:41
+175,37,125,I10,Hypertension,2026-03-03,Active,2026-08-23 15:29:41
+176,37,126,I10,Hypertension,2026-04-28,Active,2026-08-23 15:29:41
+177,38,127,E11,Type 2 Diabetes Mellitus,2025-04-11,Active,2026-08-23 15:29:41
+178,38,128,E11,Type 2 Diabetes Mellitus,2025-05-29,Active,2026-08-23 15:29:41
+179,38,129,E11,Type 2 Diabetes Mellitus,2025-08-29,Active,2026-08-23 15:29:41
+180,38,130,E11,Type 2 Diabetes Mellitus,2025-08-30,Active,2026-08-23 15:29:41
+181,38,131,E11,Type 2 Diabetes Mellitus,2026-02-09,Active,2026-08-23 15:29:41
+182,39,132,I10,Hypertension,2024-09-12,Active,2026-08-23 15:29:41
+183,39,133,I10,Hypertension,2024-11-29,Active,2026-08-23 15:29:41
+184,39,134,I10,Hypertension,2025-01-28,Active,2026-08-23 15:29:41
+185,39,135,I10,Hypertension,2025-04-13,Active,2026-08-23 15:29:41
+186,39,136,I10,Hypertension,2025-06-23,Active,2026-08-23 15:29:41
+187,40,137,E11,Type 2 Diabetes Mellitus,2025-07-23,Active,2026-08-23 15:29:41
+188,40,138,E11,Type 2 Diabetes Mellitus,2025-09-09,Active,2026-08-23 15:29:41
+189,40,139,E11,Type 2 Diabetes Mellitus,2025-11-24,Active,2026-08-23 15:29:41
+190,41,140,J45,Asthma,2026-04-27,Active,2026-08-23 15:29:41
+191,41,141,J45,Asthma,2026-07-18,Active,2026-08-23 15:29:41
+192,41,142,J45,Asthma,2026-08-11,Active,2026-08-23 15:29:41
+193,41,143,J45,Asthma,2026-08-01,Active,2026-08-23 15:29:41
+194,42,144,E11,Type 2 Diabetes Mellitus,2025-01-15,Active,2026-08-23 15:29:41
+195,42,145,E11,Type 2 Diabetes Mellitus,2025-03-05,Active,2026-08-23 15:29:41
+196,43,146,I10,Hypertension,2024-08-03,Active,2026-08-23 15:29:41
+197,43,147,I10,Hypertension,2024-10-14,Active,2026-08-23 15:29:41
+198,43,148,I10,Hypertension,2024-10-06,Active,2026-08-23 15:29:41
+199,44,149,E11,Type 2 Diabetes Mellitus,2025-01-19,Active,2026-08-23 15:29:41
+200,44,150,E11,Type 2 Diabetes Mellitus,2025-04-08,Active,2026-08-23 15:29:41
+201,44,151,E11,Type 2 Diabetes Mellitus,2025-05-15,Active,2026-08-23 15:29:41
+202,44,152,E11,Type 2 Diabetes Mellitus,2025-06-24,Active,2026-08-23 15:29:41
+203,44,153,E11,Type 2 Diabetes Mellitus,2025-10-06,Active,2026-08-23 15:29:41
+204,44,154,E11,Type 2 Diabetes Mellitus,2026-01-09,Active,2026-08-23 15:29:41
+205,45,155,I10,Hypertension,2026-04-20,Active,2026-08-23 15:29:41
+206,45,156,I10,Hypertension,2026-05-29,Active,2026-08-23 15:29:41
+207,46,157,J45,Asthma,2025-12-11,Active,2026-08-23 15:29:41
+208,46,158,J45,Asthma,2026-01-24,Active,2026-08-23 15:29:41
+209,46,159,J45,Asthma,2026-05-24,Active,2026-08-23 15:29:41
+210,46,160,J45,Asthma,2026-05-15,Active,2026-08-23 15:29:41
+211,47,161,I10,Hypertension,2026-01-11,Active,2026-08-23 15:29:41
+212,47,162,I10,Hypertension,2026-03-27,Active,2026-08-23 15:29:41
+213,47,163,I10,Hypertension,2026-04-21,Active,2026-08-23 15:29:41
+214,47,164,I10,Hypertension,2026-05-14,Active,2026-08-23 15:29:41
+215,47,165,I10,Hypertension,2026-05-19,Active,2026-08-23 15:29:41
+216,47,166,I10,Hypertension,2026-07-05,Active,2026-08-23 15:29:41
+217,48,167,E11,Type 2 Diabetes Mellitus,2025-07-24,Active,2026-08-23 15:29:41
+218,48,168,E11,Type 2 Diabetes Mellitus,2025-09-02,Active,2026-08-23 15:29:41
+219,49,169,I10,Hypertension,2026-05-20,Active,2026-08-23 15:29:41
+220,49,170,I10,Hypertension,2026-07-08,Active,2026-08-23 15:29:41
+221,49,171,I10,Hypertension,2026-08-08,Active,2026-08-23 15:29:41
+222,50,172,E11,Type 2 Diabetes Mellitus,2025-11-21,Active,2026-08-23 15:29:41
+223,50,173,E11,Type 2 Diabetes Mellitus,2026-01-23,Active,2026-08-23 15:29:41
+224,50,174,E11,Type 2 Diabetes Mellitus,2026-03-25,Active,2026-08-23 15:29:41
+225,51,175,J45,Asthma,2024-12-22,Active,2026-08-23 15:29:41
+226,51,176,J45,Asthma,2025-03-01,Active,2026-08-23 15:29:41
+227,51,177,J45,Asthma,2025-06-17,Active,2026-08-23 15:29:41
+228,52,178,E11,Type 2 Diabetes Mellitus,2026-07-15,Active,2026-08-23 15:29:41
+229,53,179,I10,Hypertension,2024-06-22,Active,2026-08-23 15:29:41
+230,53,180,I10,Hypertension,2024-09-12,Active,2026-08-23 15:29:41
+231,53,181,I10,Hypertension,2024-08-27,Active,2026-08-23 15:29:41
+232,53,182,I10,Hypertension,2025-01-27,Active,2026-08-23 15:29:41
+233,53,183,I10,Hypertension,2025-01-03,Active,2026-08-23 15:29:41
+234,54,184,E11,Type 2 Diabetes Mellitus,2024-06-15,Active,2026-08-23 15:29:41
+235,54,185,E11,Type 2 Diabetes Mellitus,2024-08-08,Active,2026-08-23 15:29:41
+236,55,186,I10,Hypertension,2025-01-26,Active,2026-08-23 15:29:41
+237,55,187,I10,Hypertension,2025-03-12,Active,2026-08-23 15:29:41
+238,55,188,I10,Hypertension,2025-04-28,Active,2026-08-23 15:29:41
+239,55,189,I10,Hypertension,2025-10-26,Active,2026-08-23 15:29:41
+240,56,190,J45,Asthma,2024-07-03,Active,2026-08-23 15:29:41
+241,56,191,J45,Asthma,2024-08-05,Active,2026-08-23 15:29:41
+242,56,192,J45,Asthma,2024-09-17,Active,2026-08-23 15:29:41
+243,56,193,J45,Asthma,2025-01-29,Active,2026-08-23 15:29:41
+244,56,194,J45,Asthma,2024-12-02,Active,2026-08-23 15:29:41
+245,56,195,J45,Asthma,2024-12-05,Active,2026-08-23 15:29:41
+246,57,196,I10,Hypertension,2026-06-18,Active,2026-08-23 15:29:41
+247,57,197,I10,Hypertension,2026-07-26,Active,2026-08-23 15:29:41
+248,57,198,I10,Hypertension,2026-08-23,Active,2026-08-23 15:29:41
+249,58,199,E11,Type 2 Diabetes Mellitus,2025-03-18,Active,2026-08-23 15:29:41
+250,58,200,E11,Type 2 Diabetes Mellitus,2025-04-27,Active,2026-08-23 15:29:41
+251,59,201,I10,Hypertension,2026-03-24,Active,2026-08-23 15:29:41
+252,59,202,I10,Hypertension,2026-06-14,Active,2026-08-23 15:29:41
+253,59,203,I10,Hypertension,2026-08-15,Active,2026-08-23 15:29:41
+254,60,204,E11,Type 2 Diabetes Mellitus,2024-09-16,Active,2026-08-23 15:29:41
+255,60,205,E11,Type 2 Diabetes Mellitus,2024-11-07,Active,2026-08-23 15:29:41
+256,60,206,E11,Type 2 Diabetes Mellitus,2024-11-15,Active,2026-08-23 15:29:41
+257,60,207,E11,Type 2 Diabetes Mellitus,2024-12-15,Active,2026-08-23 15:29:41
+258,60,208,E11,Type 2 Diabetes Mellitus,2025-01-26,Active,2026-08-23 15:29:41
+259,61,209,J45,Asthma,2026-05-10,Active,2026-08-23 15:29:41
+260,61,210,J45,Asthma,2026-05-30,Active,2026-08-23 15:29:41
+261,62,211,E11,Type 2 Diabetes Mellitus,2025-08-25,Active,2026-08-23 15:29:41
+262,62,212,E11,Type 2 Diabetes Mellitus,2025-09-12,Active,2026-08-23 15:29:41
+263,62,213,E11,Type 2 Diabetes Mellitus,2025-09-26,Active,2026-08-23 15:29:41
+264,62,214,E11,Type 2 Diabetes Mellitus,2025-10-15,Active,2026-08-23 15:29:41
+265,63,215,I10,Hypertension,2025-07-12,Active,2026-08-23 15:29:41
+266,63,216,I10,Hypertension,2025-08-04,Active,2026-08-23 15:29:41
+267,63,217,I10,Hypertension,2025-08-31,Active,2026-08-23 15:29:41
+268,63,218,I10,Hypertension,2025-08-26,Active,2026-08-23 15:29:41
+269,64,219,E11,Type 2 Diabetes Mellitus,2024-09-15,Active,2026-08-23 15:29:41
+270,64,220,E11,Type 2 Diabetes Mellitus,2024-10-03,Active,2026-08-23 15:29:41
+271,65,221,I10,Hypertension,2024-06-15,Active,2026-08-23 15:29:41
+272,65,222,I10,Hypertension,2024-07-04,Active,2026-08-23 15:29:41
+273,65,223,I10,Hypertension,2024-07-21,Active,2026-08-23 15:29:41
+274,65,224,I10,Hypertension,2024-08-26,Active,2026-08-23 15:29:41
+275,65,225,I10,Hypertension,2024-09-15,Active,2026-08-23 15:29:41
+276,65,226,I10,Hypertension,2024-10-18,Active,2026-08-23 15:29:41
+277,66,227,J45,Asthma,2025-01-29,Active,2026-08-23 15:29:41
+278,66,228,J45,Asthma,2025-04-08,Active,2026-08-23 15:29:41
+279,66,229,J45,Asthma,2025-07-04,Active,2026-08-23 15:29:41
+280,66,230,J45,Asthma,2025-06-25,Active,2026-08-23 15:29:41
+281,67,231,I10,Hypertension,2025-06-27,Active,2026-08-23 15:29:41
+282,67,232,I10,Hypertension,2025-09-24,Active,2026-08-23 15:29:41
+283,67,233,I10,Hypertension,2025-09-07,Active,2026-08-23 15:29:41
+284,68,234,E11,Type 2 Diabetes Mellitus,2025-06-11,Active,2026-08-23 15:29:41
+285,68,235,E11,Type 2 Diabetes Mellitus,2025-07-30,Active,2026-08-23 15:29:41
+286,68,236,E11,Type 2 Diabetes Mellitus,2025-09-03,Active,2026-08-23 15:29:41
+287,68,237,E11,Type 2 Diabetes Mellitus,2025-12-20,Active,2026-08-23 15:29:41
+288,69,238,I10,Hypertension,2025-07-13,Active,2026-08-23 15:29:41
+289,69,239,I10,Hypertension,2025-09-29,Active,2026-08-23 15:29:41
+290,70,240,E11,Type 2 Diabetes Mellitus,2026-07-14,Active,2026-08-23 15:29:41
+291,71,241,J45,Asthma,2025-03-13,Active,2026-08-23 15:29:41
+292,71,242,J45,Asthma,2025-04-25,Active,2026-08-23 15:29:41
+293,71,243,J45,Asthma,2025-07-11,Active,2026-08-23 15:29:41
+294,72,244,E11,Type 2 Diabetes Mellitus,2026-03-26,Active,2026-08-23 15:29:41
+295,72,245,E11,Type 2 Diabetes Mellitus,2026-06-02,Active,2026-08-23 15:29:41
+296,72,246,E11,Type 2 Diabetes Mellitus,2026-08-17,Active,2026-08-23 15:29:41
+297,72,247,E11,Type 2 Diabetes Mellitus,2026-08-17,Active,2026-08-23 15:29:41
+298,73,248,I10,Hypertension,2025-03-07,Active,2026-08-23 15:29:41
+299,73,249,I10,Hypertension,2025-04-24,Active,2026-08-23 15:29:41
+300,73,250,I10,Hypertension,2025-05-18,Active,2026-08-23 15:29:41
+301,73,251,I10,Hypertension,2025-08-01,Active,2026-08-23 15:29:41
+302,73,252,I10,Hypertension,2026-01-25,Active,2026-08-23 15:29:41
+303,74,253,E11,Type 2 Diabetes Mellitus,2025-05-31,Active,2026-08-23 15:29:41
+304,74,254,E11,Type 2 Diabetes Mellitus,2025-08-10,Active,2026-08-23 15:29:41
+305,74,255,E11,Type 2 Diabetes Mellitus,2025-11-23,Active,2026-08-23 15:29:41
+306,74,256,E11,Type 2 Diabetes Mellitus,2025-11-24,Active,2026-08-23 15:29:41
+307,74,257,E11,Type 2 Diabetes Mellitus,2025-12-01,Active,2026-08-23 15:29:41
+308,75,258,I10,Hypertension,2026-04-26,Active,2026-08-23 15:29:41
+309,75,259,I10,Hypertension,2026-07-08,Active,2026-08-23 15:29:41
+310,76,260,J45,Asthma,2024-07-31,Active,2026-08-23 15:29:41
+311,76,261,J45,Asthma,2024-10-03,Active,2026-08-23 15:29:41
+312,77,263,I10,Hypertension,2025-05-09,Active,2026-08-23 15:29:41
+313,77,264,I10,Hypertension,2025-07-17,Active,2026-08-23 15:29:41
+314,77,265,I10,Hypertension,2025-10-20,Active,2026-08-23 15:29:41
+315,77,266,I10,Hypertension,2025-10-24,Active,2026-08-23 15:29:41
+316,77,267,I10,Hypertension,2025-12-27,Active,2026-08-23 15:29:41
+317,78,269,E11,Type 2 Diabetes Mellitus,2024-11-06,Active,2026-08-23 15:29:41
+318,78,270,E11,Type 2 Diabetes Mellitus,2025-01-31,Active,2026-08-23 15:29:41
+319,79,272,I10,Hypertension,2025-11-28,Active,2026-08-23 15:29:41
+320,80,274,E11,Type 2 Diabetes Mellitus,2025-06-04,Active,2026-08-23 15:29:41
+321,80,275,E11,Type 2 Diabetes Mellitus,2025-07-26,Active,2026-08-23 15:29:41
+322,80,276,E11,Type 2 Diabetes Mellitus,2025-11-13,Active,2026-08-23 15:29:41
+323,80,277,E11,Type 2 Diabetes Mellitus,2025-09-17,Active,2026-08-23 15:29:41
+324,80,278,E11,Type 2 Diabetes Mellitus,2025-11-15,Active,2026-08-23 15:29:41
+325,81,280,J45,Asthma,2025-03-31,Active,2026-08-23 15:29:41
+326,81,281,J45,Asthma,2025-06-21,Active,2026-08-23 15:29:41
+327,81,282,J45,Asthma,2025-06-25,Active,2026-08-23 15:29:41
+328,81,283,J45,Asthma,2025-11-26,Active,2026-08-23 15:29:41
+329,82,284,E11,Type 2 Diabetes Mellitus,2025-09-11,Active,2026-08-23 15:29:41
+330,82,285,E11,Type 2 Diabetes Mellitus,2025-10-23,Active,2026-08-23 15:29:41
+331,82,286,E11,Type 2 Diabetes Mellitus,2026-01-17,Active,2026-08-23 15:29:41
+332,82,287,E11,Type 2 Diabetes Mellitus,2026-05-15,Active,2026-08-23 15:29:41
+333,82,288,E11,Type 2 Diabetes Mellitus,2026-06-14,Active,2026-08-23 15:29:41
+334,82,289,E11,Type 2 Diabetes Mellitus,2026-06-18,Active,2026-08-23 15:29:41
+335,83,290,I10,Hypertension,2025-04-13,Active,2026-08-23 15:29:41
+336,83,291,I10,Hypertension,2025-06-13,Active,2026-08-23 15:29:41
+337,84,292,E11,Type 2 Diabetes Mellitus,2025-11-24,Active,2026-08-23 15:29:41
+338,84,293,E11,Type 2 Diabetes Mellitus,2026-02-22,Active,2026-08-23 15:29:41
+339,84,294,E11,Type 2 Diabetes Mellitus,2026-05-15,Active,2026-08-23 15:29:42
+340,84,295,E11,Type 2 Diabetes Mellitus,2026-08-03,Active,2026-08-23 15:29:42
+341,85,296,I10,Hypertension,2025-08-20,Active,2026-08-23 15:29:42
+342,85,297,I10,Hypertension,2025-11-16,Active,2026-08-23 15:29:42
+343,85,298,I10,Hypertension,2025-12-30,Active,2026-08-23 15:29:42
+344,85,299,I10,Hypertension,2026-04-05,Active,2026-08-23 15:29:42
+345,86,300,J45,Asthma,2024-11-12,Active,2026-08-23 15:29:42
+346,86,301,J45,Asthma,2025-01-17,Active,2026-08-23 15:29:42
+347,87,302,I10,Hypertension,2025-07-11,Active,2026-08-23 15:29:42
+348,87,303,I10,Hypertension,2025-09-28,Active,2026-08-23 15:29:42
+349,87,304,I10,Hypertension,2025-11-30,Active,2026-08-23 15:29:42
+350,87,305,I10,Hypertension,2026-02-24,Active,2026-08-23 15:29:42
+351,87,306,I10,Hypertension,2026-01-23,Active,2026-08-23 15:29:42
+352,87,307,I10,Hypertension,2026-04-07,Active,2026-08-23 15:29:42
+353,88,308,E11,Type 2 Diabetes Mellitus,2025-07-22,Active,2026-08-23 15:29:42
+354,88,309,E11,Type 2 Diabetes Mellitus,2025-08-26,Active,2026-08-23 15:29:42
+355,89,310,I10,Hypertension,2025-07-17,Active,2026-08-23 15:29:42
+356,89,311,I10,Hypertension,2025-09-27,Active,2026-08-23 15:29:42
+357,89,312,I10,Hypertension,2025-10-27,Active,2026-08-23 15:29:42
+358,89,313,I10,Hypertension,2025-12-14,Active,2026-08-23 15:29:42
+359,89,314,I10,Hypertension,2025-12-28,Active,2026-08-23 15:29:42
+360,90,315,E11,Type 2 Diabetes Mellitus,2025-04-07,Active,2026-08-23 15:29:42
+361,90,316,E11,Type 2 Diabetes Mellitus,2025-05-19,Active,2026-08-23 15:29:42
+362,90,317,E11,Type 2 Diabetes Mellitus,2025-08-21,Active,2026-08-23 15:29:42
+363,90,318,E11,Type 2 Diabetes Mellitus,2025-12-09,Active,2026-08-23 15:29:42
+364,90,319,E11,Type 2 Diabetes Mellitus,2026-02-17,Active,2026-08-23 15:29:42
+365,91,320,J45,Asthma,2024-06-17,Active,2026-08-23 15:29:42
+366,91,321,J45,Asthma,2024-09-13,Active,2026-08-23 15:29:42
+367,91,322,J45,Asthma,2024-11-02,Active,2026-08-23 15:29:42
+368,92,323,E11,Type 2 Diabetes Mellitus,2025-10-11,Active,2026-08-23 15:29:42
+369,92,324,E11,Type 2 Diabetes Mellitus,2025-12-14,Active,2026-08-23 15:29:42
+370,92,325,E11,Type 2 Diabetes Mellitus,2026-01-13,Active,2026-08-23 15:29:42
+371,92,326,E11,Type 2 Diabetes Mellitus,2026-07-02,Active,2026-08-23 15:29:42
+372,93,327,I10,Hypertension,2025-05-14,Active,2026-08-23 15:29:42
+373,93,328,I10,Hypertension,2025-06-20,Active,2026-08-23 15:29:42
+374,93,329,I10,Hypertension,2025-11-08,Active,2026-08-23 15:29:42
+375,94,330,E11,Type 2 Diabetes Mellitus,2025-04-06,Active,2026-08-23 15:29:42
+376,94,331,E11,Type 2 Diabetes Mellitus,2025-06-01,Active,2026-08-23 15:29:42
+377,94,332,E11,Type 2 Diabetes Mellitus,2025-09-13,Active,2026-08-23 15:29:42
+378,94,333,E11,Type 2 Diabetes Mellitus,2025-12-11,Active,2026-08-23 15:29:42
+379,94,334,E11,Type 2 Diabetes Mellitus,2026-03-20,Active,2026-08-23 15:29:42
+380,95,335,I10,Hypertension,2026-06-17,Active,2026-08-23 15:29:42
+381,95,336,I10,Hypertension,2026-08-05,Active,2026-08-23 15:29:42
+382,96,337,J45,Asthma,2024-06-18,Active,2026-08-23 15:29:42
+383,96,338,J45,Asthma,2024-09-05,Active,2026-08-23 15:29:42
+384,97,339,I10,Hypertension,2025-09-16,Active,2026-08-23 15:29:42
+385,97,340,I10,Hypertension,2025-10-23,Active,2026-08-23 15:29:42
+386,98,341,E11,Type 2 Diabetes Mellitus,2026-04-12,Active,2026-08-23 15:29:42
+387,98,342,E11,Type 2 Diabetes Mellitus,2026-06-09,Active,2026-08-23 15:29:42
+388,99,343,I10,Hypertension,2024-09-07,Active,2026-08-23 15:29:42
+389,99,344,I10,Hypertension,2024-12-04,Active,2026-08-23 15:29:42
+390,100,345,E11,Type 2 Diabetes Mellitus,2026-03-02,Active,2026-08-23 15:29:42
+391,100,346,E11,Type 2 Diabetes Mellitus,2026-04-26,Active,2026-08-23 15:29:42
+392,100,347,E11,Type 2 Diabetes Mellitus,2026-07-12,Active,2026-08-23 15:29:42
+393,100,348,E11,Type 2 Diabetes Mellitus,2026-06-18,Active,2026-08-23 15:29:42
+394,100,349,E11,Type 2 Diabetes Mellitus,2026-07-20,Active,2026-08-23 15:29:42

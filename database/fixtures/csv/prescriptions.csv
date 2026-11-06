@@ -1,0 +1,407 @@
+prescription_id,patient_id,visit_id,medication,dosage,start_date,end_date,prescribing_doctor,indication
+1,1,2,Amlodipine,5mg daily,2026-07-26,2026-09-05,Dr. Multi-Care,Hypertension
+2,1,2,Amlodipine (1),5mg daily,2026-07-26,2026-08-24,Dr. Multi-Care,Hypertension
+3,1,2,Metformin (2),500mg BID,2026-07-26,2026-08-27,Dr. Multi-Care,Type 2 Diabetes Mellitus
+4,2,3,Amlodipine,5mg daily,2024-10-14,2024-11-04,Dr. Multi-Care,Hypertension
+5,2,4,Amlodipine,5mg daily,2025-01-09,2025-01-24,Dr. Multi-Care,Hypertension
+6,3,5,Amlodipine,5mg daily,2025-08-22,2025-09-21,Dr. Multi-Care,Hypertension
+7,3,6,Amlodipine,5mg daily,2025-10-23,2025-10-31,Dr. Multi-Care,Hypertension
+8,4,7,Amlodipine,5mg daily,2025-04-20,2025-06-03,Dr. Multi-Care,Hypertension
+9,4,8,Amlodipine,5mg daily,2025-06-27,2025-08-08,Dr. Multi-Care,Hypertension
+10,5,9,Amlodipine,5mg daily,2025-06-09,2025-07-16,Dr. Multi-Care,Hypertension
+11,5,10,Amlodipine,5mg daily,2025-07-14,2025-07-28,Dr. Multi-Care,Hypertension
+12,5,11,Amlodipine,5mg daily,2025-12-06,2026-01-04,Dr. Multi-Care,Hypertension
+13,6,12,Amlodipine,5mg daily,2025-01-13,2025-02-08,Dr. Multi-Care,Hypertension
+14,6,13,Amlodipine,5mg daily,2025-02-23,2025-03-23,Dr. Multi-Care,Hypertension
+15,6,14,Amlodipine,5mg daily,2025-04-03,2025-04-13,Dr. Multi-Care,Hypertension
+16,6,15,Amlodipine,5mg daily,2025-08-17,2025-09-24,Dr. Multi-Care,Hypertension
+17,7,16,Amlodipine,5mg daily,2024-10-09,2024-11-01,Dr. Multi-Care,Hypertension
+18,7,17,Amlodipine,5mg daily,2024-12-09,2024-12-18,Dr. Multi-Care,Hypertension
+19,7,18,Amlodipine,5mg daily,2025-01-31,2025-03-04,Dr. Multi-Care,Hypertension
+20,7,19,Amlodipine,5mg daily,2025-06-09,2025-07-07,Dr. Multi-Care,Hypertension
+21,7,20,Amlodipine,5mg daily,2025-04-03,2025-05-02,Dr. Multi-Care,Hypertension
+22,7,21,Amlodipine,5mg daily,2025-11-23,2025-12-31,Dr. Multi-Care,Hypertension
+23,8,22,Amlodipine,5mg daily,2024-07-12,2024-08-05,Dr. Multi-Care,Hypertension
+24,8,23,Amlodipine,5mg daily,2024-08-15,2024-09-23,Dr. Multi-Care,Hypertension
+25,8,24,Amlodipine,5mg daily,2024-10-28,2024-12-06,Dr. Multi-Care,Hypertension
+26,8,25,Amlodipine,5mg daily,2024-10-28,2024-11-22,Dr. Multi-Care,Hypertension
+27,8,26,Amlodipine,5mg daily,2025-02-13,2025-03-10,Dr. Multi-Care,Hypertension
+28,9,27,Amlodipine,5mg daily,2026-03-23,2026-04-20,Dr. Multi-Care,Hypertension
+29,9,27,Salbutamol (1),Inhaler PRN,2026-03-23,2026-04-07,Dr. Multi-Care,Asthma
+30,9,27,Amlodipine (2),5mg daily,2026-03-23,2026-05-02,Dr. Multi-Care,Hypertension
+31,9,28,Amlodipine,5mg daily,2026-05-15,2026-05-31,Dr. Multi-Care,Hypertension
+32,9,28,Metformin (1),500mg BID,2026-05-15,2026-05-26,Dr. Multi-Care,Type 2 Diabetes Mellitus
+33,10,29,Amlodipine,5mg daily,2026-07-16,2026-08-15,Dr. Multi-Care,Hypertension
+34,11,31,Amlodipine,5mg daily,2026-02-21,2026-03-07,Dr. Multi-Care,Hypertension
+35,11,32,Amlodipine,5mg daily,2026-04-02,2026-04-23,Dr. Multi-Care,Hypertension
+36,11,33,Amlodipine,5mg daily,2026-04-30,2026-05-28,Dr. Multi-Care,Hypertension
+37,12,34,Amlodipine,5mg daily,2025-04-27,2025-06-08,Dr. Multi-Care,Hypertension
+38,12,35,Amlodipine,5mg daily,2025-06-23,2025-07-31,Dr. Multi-Care,Hypertension
+39,12,36,Amlodipine,5mg daily,2025-09-10,2025-10-13,Dr. Multi-Care,Hypertension
+40,12,37,Amlodipine,5mg daily,2025-11-02,2025-11-13,Dr. Multi-Care,Hypertension
+41,13,38,Amlodipine,5mg daily,2025-12-20,2026-01-25,Dr. Multi-Care,Hypertension
+42,13,39,Amlodipine,5mg daily,2026-03-11,2026-04-21,Dr. Multi-Care,Hypertension
+43,13,40,Amlodipine,5mg daily,2026-05-11,2026-06-12,Dr. Multi-Care,Hypertension
+44,13,41,Amlodipine,5mg daily,2026-05-31,2026-07-15,Dr. Multi-Care,Hypertension
+45,14,42,Amlodipine,5mg daily,2025-09-29,2025-11-03,Dr. Multi-Care,Hypertension
+46,14,43,Amlodipine,5mg daily,2025-11-20,2026-01-04,Dr. Multi-Care,Hypertension
+47,14,44,Amlodipine,5mg daily,2026-02-22,2026-03-03,Dr. Multi-Care,Hypertension
+48,14,45,Amlodipine,5mg daily,2026-06-26,2026-07-14,Dr. Multi-Care,Hypertension
+49,15,46,Amlodipine,5mg daily,2025-03-11,2025-04-18,Dr. Multi-Care,Hypertension
+50,15,47,Amlodipine,5mg daily,2025-04-14,2025-05-10,Dr. Multi-Care,Hypertension
+51,15,48,Amlodipine,5mg daily,2025-08-26,2025-09-03,Dr. Multi-Care,Hypertension
+52,15,49,Amlodipine,5mg daily,2025-09-04,2025-09-19,Dr. Multi-Care,Hypertension
+53,15,50,Amlodipine,5mg daily,2025-09-27,2025-10-12,Dr. Multi-Care,Hypertension
+54,16,51,Salbutamol,Inhaler PRN,2026-04-18,2026-05-11,Dr. Multi-Care,Asthma
+55,16,52,Salbutamol,Inhaler PRN,2026-06-04,2026-07-19,Dr. Multi-Care,Asthma
+56,17,53,Amlodipine,5mg daily,2025-01-23,2025-02-18,Dr. Multi-Care,Hypertension
+57,17,53,Amlodipine (1),5mg daily,2025-01-23,2025-03-01,Dr. Multi-Care,Hypertension
+58,17,53,Metformin (2),500mg BID,2025-01-23,2025-02-24,Dr. Multi-Care,Type 2 Diabetes Mellitus
+59,17,54,Amlodipine,5mg daily,2025-03-04,2025-04-05,Dr. Multi-Care,Hypertension
+60,17,54,Metformin (1),500mg BID,2025-03-04,2025-03-19,Dr. Multi-Care,Type 2 Diabetes Mellitus
+61,17,54,Salbutamol (2),Inhaler PRN,2025-03-04,2025-04-12,Dr. Multi-Care,Asthma
+62,17,55,Amlodipine,5mg daily,2025-04-07,2025-05-04,Dr. Multi-Care,Hypertension
+63,17,55,Salbutamol (1),Inhaler PRN,2025-04-07,2025-05-20,Dr. Multi-Care,Asthma
+64,17,56,Amlodipine,5mg daily,2025-07-25,2025-09-07,Dr. Multi-Care,Hypertension
+65,17,56,Amlodipine (1),5mg daily,2025-07-25,2025-08-23,Dr. Multi-Care,Hypertension
+66,18,57,Metformin,500mg BID,2025-11-04,2025-12-04,Dr. Multi-Care,Type 2 Diabetes Mellitus
+67,18,58,Metformin,500mg BID,2026-01-05,2026-02-02,Dr. Multi-Care,Type 2 Diabetes Mellitus
+68,18,59,Metformin,500mg BID,2026-03-14,2026-04-19,Dr. Multi-Care,Type 2 Diabetes Mellitus
+69,18,60,Metformin,500mg BID,2026-02-26,2026-04-06,Dr. Multi-Care,Type 2 Diabetes Mellitus
+70,18,61,Metformin,500mg BID,2026-07-18,2026-07-26,Dr. Multi-Care,Type 2 Diabetes Mellitus
+71,19,62,Amlodipine,5mg daily,2025-01-09,2025-01-31,Dr. Multi-Care,Hypertension
+72,19,63,Amlodipine,5mg daily,2025-02-15,2025-02-25,Dr. Multi-Care,Hypertension
+73,19,64,Amlodipine,5mg daily,2025-06-08,2025-06-26,Dr. Multi-Care,Hypertension
+74,19,65,Amlodipine,5mg daily,2025-07-20,2025-08-09,Dr. Multi-Care,Hypertension
+75,19,66,Amlodipine,5mg daily,2025-11-01,2025-12-12,Dr. Multi-Care,Hypertension
+76,19,67,Amlodipine,5mg daily,2026-02-23,2026-03-14,Dr. Multi-Care,Hypertension
+77,20,68,Metformin,500mg BID,2025-11-19,2025-12-10,Dr. Multi-Care,Type 2 Diabetes Mellitus
+78,20,69,Metformin,500mg BID,2026-01-14,2026-02-20,Dr. Multi-Care,Type 2 Diabetes Mellitus
+79,20,70,Metformin,500mg BID,2026-03-19,2026-04-29,Dr. Multi-Care,Type 2 Diabetes Mellitus
+80,20,71,Metformin,500mg BID,2026-02-23,2026-03-04,Dr. Multi-Care,Type 2 Diabetes Mellitus
+81,20,72,Metformin,500mg BID,2026-03-19,2026-04-03,Dr. Multi-Care,Type 2 Diabetes Mellitus
+82,20,73,Metformin,500mg BID,2026-06-17,2026-07-06,Dr. Multi-Care,Type 2 Diabetes Mellitus
+83,21,75,Salbutamol,Inhaler PRN,2025-01-20,2025-02-25,Dr. Multi-Care,Asthma
+84,21,76,Salbutamol,Inhaler PRN,2025-04-09,2025-05-24,Dr. Multi-Care,Asthma
+85,22,77,Metformin,500mg BID,2024-07-09,2024-08-17,Dr. Multi-Care,Type 2 Diabetes Mellitus
+86,22,78,Metformin,500mg BID,2024-08-18,2024-09-22,Dr. Multi-Care,Type 2 Diabetes Mellitus
+87,22,79,Metformin,500mg BID,2024-12-18,2025-01-10,Dr. Multi-Care,Type 2 Diabetes Mellitus
+88,22,80,Metformin,500mg BID,2025-01-26,2025-03-04,Dr. Multi-Care,Type 2 Diabetes Mellitus
+89,22,81,Metformin,500mg BID,2024-11-14,2024-12-15,Dr. Multi-Care,Type 2 Diabetes Mellitus
+90,23,82,Amlodipine,5mg daily,2026-04-09,2026-04-17,Dr. Multi-Care,Hypertension
+91,23,83,Amlodipine,5mg daily,2026-06-24,2026-07-27,Dr. Multi-Care,Hypertension
+92,24,84,Metformin,500mg BID,2025-12-20,2026-01-21,Dr. Multi-Care,Type 2 Diabetes Mellitus
+93,24,85,Metformin,500mg BID,2026-03-08,2026-04-03,Dr. Multi-Care,Type 2 Diabetes Mellitus
+94,25,86,Amlodipine,5mg daily,2024-10-16,2024-10-26,Dr. Multi-Care,Hypertension
+95,25,86,Salbutamol (1),Inhaler PRN,2024-10-16,2024-11-14,Dr. Multi-Care,Asthma
+96,25,86,Salbutamol (2),Inhaler PRN,2024-10-16,2024-11-16,Dr. Multi-Care,Asthma
+97,25,87,Amlodipine,5mg daily,2024-12-04,2025-01-15,Dr. Multi-Care,Hypertension
+98,25,87,Amlodipine (1),5mg daily,2024-12-04,2025-01-13,Dr. Multi-Care,Hypertension
+99,25,87,Amlodipine (2),5mg daily,2024-12-04,2025-01-04,Dr. Multi-Care,Hypertension
+100,25,88,Amlodipine,5mg daily,2024-12-25,2025-01-05,Dr. Multi-Care,Hypertension
+101,25,88,Salbutamol (1),Inhaler PRN,2024-12-25,2025-01-13,Dr. Multi-Care,Asthma
+102,26,89,Salbutamol,Inhaler PRN,2026-01-22,2026-03-08,Dr. Multi-Care,Asthma
+103,26,90,Salbutamol,Inhaler PRN,2026-03-08,2026-04-15,Dr. Multi-Care,Asthma
+104,26,91,Salbutamol,Inhaler PRN,2026-05-20,2026-07-03,Dr. Multi-Care,Asthma
+105,26,92,Salbutamol,Inhaler PRN,2026-05-19,2026-06-16,Dr. Multi-Care,Asthma
+106,26,93,Salbutamol,Inhaler PRN,2026-07-25,2026-08-04,Dr. Multi-Care,Asthma
+107,27,94,Amlodipine,5mg daily,2024-10-08,2024-11-07,Dr. Multi-Care,Hypertension
+108,27,95,Amlodipine,5mg daily,2025-01-05,2025-02-08,Dr. Multi-Care,Hypertension
+109,28,96,Metformin,500mg BID,2026-05-06,2026-05-18,Dr. Multi-Care,Type 2 Diabetes Mellitus
+110,28,97,Metformin,500mg BID,2026-07-11,2026-08-17,Dr. Multi-Care,Type 2 Diabetes Mellitus
+111,28,98,Metformin,500mg BID,2026-07-11,2026-07-24,Dr. Multi-Care,Type 2 Diabetes Mellitus
+112,29,99,Amlodipine,5mg daily,2026-01-19,2026-01-27,Dr. Multi-Care,Hypertension
+113,29,100,Amlodipine,5mg daily,2026-04-07,2026-05-05,Dr. Multi-Care,Hypertension
+114,29,101,Amlodipine,5mg daily,2026-06-28,2026-07-25,Dr. Multi-Care,Hypertension
+115,30,102,Metformin,500mg BID,2025-04-08,2025-05-03,Dr. Multi-Care,Type 2 Diabetes Mellitus
+116,30,103,Metformin,500mg BID,2025-05-13,2025-06-17,Dr. Multi-Care,Type 2 Diabetes Mellitus
+117,30,104,Metformin,500mg BID,2025-07-23,2025-07-31,Dr. Multi-Care,Type 2 Diabetes Mellitus
+118,30,105,Metformin,500mg BID,2025-10-29,2025-11-29,Dr. Multi-Care,Type 2 Diabetes Mellitus
+119,30,106,Metformin,500mg BID,2025-09-15,2025-10-22,Dr. Multi-Care,Type 2 Diabetes Mellitus
+120,31,108,Amlodipine,5mg daily,2024-11-05,2024-12-02,Dr. Multi-Care,Hypertension
+121,31,109,Amlodipine,5mg daily,2025-01-16,2025-02-26,Dr. Multi-Care,Hypertension
+122,32,110,Amlodipine,5mg daily,2024-08-09,2024-09-04,Dr. Multi-Care,Hypertension
+123,32,111,Amlodipine,5mg daily,2024-10-23,2024-12-03,Dr. Multi-Care,Hypertension
+124,33,112,Amlodipine,5mg daily,2024-09-04,2024-10-02,Dr. Multi-Care,Hypertension
+125,33,112,Amlodipine (1),5mg daily,2024-09-04,2024-10-08,Dr. Multi-Care,Hypertension
+126,33,112,Amlodipine (2),5mg daily,2024-09-04,2024-09-11,Dr. Multi-Care,Hypertension
+127,33,113,Amlodipine,5mg daily,2024-11-06,2024-11-18,Dr. Multi-Care,Hypertension
+128,33,113,Salbutamol (1),Inhaler PRN,2024-11-06,2024-11-20,Dr. Multi-Care,Asthma
+129,33,113,Metformin (2),500mg BID,2024-11-06,2024-11-22,Dr. Multi-Care,Type 2 Diabetes Mellitus
+130,33,114,Amlodipine,5mg daily,2025-01-08,2025-01-16,Dr. Multi-Care,Hypertension
+131,33,114,Salbutamol (1),Inhaler PRN,2025-01-08,2025-02-05,Dr. Multi-Care,Asthma
+132,33,115,Amlodipine,5mg daily,2025-05-29,2025-06-30,Dr. Multi-Care,Hypertension
+133,33,115,Salbutamol (1),Inhaler PRN,2025-05-29,2025-06-06,Dr. Multi-Care,Asthma
+134,33,115,Metformin (2),500mg BID,2025-05-29,2025-06-17,Dr. Multi-Care,Type 2 Diabetes Mellitus
+135,34,116,Amlodipine,5mg daily,2026-01-25,2026-03-04,Dr. Multi-Care,Hypertension
+136,34,117,Amlodipine,5mg daily,2026-04-03,2026-05-17,Dr. Multi-Care,Hypertension
+137,34,118,Amlodipine,5mg daily,2026-06-20,2026-08-04,Dr. Multi-Care,Hypertension
+138,35,119,Amlodipine,5mg daily,2025-04-12,2025-04-27,Dr. Multi-Care,Hypertension
+139,35,120,Amlodipine,5mg daily,2025-06-16,2025-07-07,Dr. Multi-Care,Hypertension
+140,35,121,Amlodipine,5mg daily,2025-06-15,2025-07-26,Dr. Multi-Care,Hypertension
+141,36,122,Salbutamol,Inhaler PRN,2024-07-06,2024-07-15,Dr. Multi-Care,Asthma
+142,36,123,Salbutamol,Inhaler PRN,2024-09-26,2024-10-11,Dr. Multi-Care,Asthma
+143,37,124,Amlodipine,5mg daily,2026-01-24,2026-03-08,Dr. Multi-Care,Hypertension
+144,37,125,Amlodipine,5mg daily,2026-03-03,2026-04-04,Dr. Multi-Care,Hypertension
+145,37,126,Amlodipine,5mg daily,2026-04-28,2026-05-22,Dr. Multi-Care,Hypertension
+146,38,127,Metformin,500mg BID,2025-04-11,2025-05-01,Dr. Multi-Care,Type 2 Diabetes Mellitus
+147,38,128,Metformin,500mg BID,2025-05-29,2025-06-11,Dr. Multi-Care,Type 2 Diabetes Mellitus
+148,38,129,Metformin,500mg BID,2025-08-29,2025-09-24,Dr. Multi-Care,Type 2 Diabetes Mellitus
+149,38,130,Metformin,500mg BID,2025-08-30,2025-09-25,Dr. Multi-Care,Type 2 Diabetes Mellitus
+150,38,131,Metformin,500mg BID,2026-02-09,2026-02-16,Dr. Multi-Care,Type 2 Diabetes Mellitus
+151,39,132,Amlodipine,5mg daily,2024-09-12,2024-10-08,Dr. Multi-Care,Hypertension
+152,39,133,Amlodipine,5mg daily,2024-11-29,2025-01-01,Dr. Multi-Care,Hypertension
+153,39,134,Amlodipine,5mg daily,2025-01-28,2025-02-24,Dr. Multi-Care,Hypertension
+154,39,135,Amlodipine,5mg daily,2025-04-13,2025-05-08,Dr. Multi-Care,Hypertension
+155,39,136,Amlodipine,5mg daily,2025-06-23,2025-06-30,Dr. Multi-Care,Hypertension
+156,40,137,Metformin,500mg BID,2025-07-23,2025-08-02,Dr. Multi-Care,Type 2 Diabetes Mellitus
+157,40,138,Metformin,500mg BID,2025-09-09,2025-09-21,Dr. Multi-Care,Type 2 Diabetes Mellitus
+158,40,139,Metformin,500mg BID,2025-11-24,2025-12-16,Dr. Multi-Care,Type 2 Diabetes Mellitus
+159,41,141,Salbutamol,Inhaler PRN,2026-07-18,2026-08-10,Dr. Multi-Care,Asthma
+160,41,141,Salbutamol (1),Inhaler PRN,2026-07-18,2026-08-30,Dr. Multi-Care,Asthma
+161,41,142,Salbutamol,Inhaler PRN,2026-08-11,2026-09-19,Dr. Multi-Care,Asthma
+162,41,142,Amlodipine (1),5mg daily,2026-08-11,2026-08-18,Dr. Multi-Care,Hypertension
+163,41,143,Salbutamol,Inhaler PRN,2026-08-01,2026-08-28,Dr. Multi-Care,Asthma
+164,41,143,Metformin (1),500mg BID,2026-08-01,2026-08-23,Dr. Multi-Care,Type 2 Diabetes Mellitus
+165,42,144,Metformin,500mg BID,2025-01-15,2025-02-20,Dr. Multi-Care,Type 2 Diabetes Mellitus
+166,42,145,Metformin,500mg BID,2025-03-05,2025-04-12,Dr. Multi-Care,Type 2 Diabetes Mellitus
+167,43,146,Amlodipine,5mg daily,2024-08-03,2024-08-10,Dr. Multi-Care,Hypertension
+168,43,147,Amlodipine,5mg daily,2024-10-14,2024-10-26,Dr. Multi-Care,Hypertension
+169,43,148,Amlodipine,5mg daily,2024-10-06,2024-10-21,Dr. Multi-Care,Hypertension
+170,44,149,Metformin,500mg BID,2025-01-19,2025-02-09,Dr. Multi-Care,Type 2 Diabetes Mellitus
+171,44,150,Metformin,500mg BID,2025-04-08,2025-04-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+172,44,151,Metformin,500mg BID,2025-05-15,2025-06-11,Dr. Multi-Care,Type 2 Diabetes Mellitus
+173,44,152,Metformin,500mg BID,2025-06-24,2025-07-29,Dr. Multi-Care,Type 2 Diabetes Mellitus
+174,44,153,Metformin,500mg BID,2025-10-06,2025-11-07,Dr. Multi-Care,Type 2 Diabetes Mellitus
+175,44,154,Metformin,500mg BID,2026-01-09,2026-01-21,Dr. Multi-Care,Type 2 Diabetes Mellitus
+176,45,155,Amlodipine,5mg daily,2026-04-20,2026-05-08,Dr. Multi-Care,Hypertension
+177,45,156,Amlodipine,5mg daily,2026-05-29,2026-06-22,Dr. Multi-Care,Hypertension
+178,46,157,Salbutamol,Inhaler PRN,2025-12-11,2026-01-04,Dr. Multi-Care,Asthma
+179,46,158,Salbutamol,Inhaler PRN,2026-01-24,2026-03-06,Dr. Multi-Care,Asthma
+180,46,159,Salbutamol,Inhaler PRN,2026-05-24,2026-06-20,Dr. Multi-Care,Asthma
+181,46,160,Salbutamol,Inhaler PRN,2026-05-15,2026-06-05,Dr. Multi-Care,Asthma
+182,47,161,Amlodipine,5mg daily,2026-01-11,2026-02-07,Dr. Multi-Care,Hypertension
+183,47,162,Amlodipine,5mg daily,2026-03-27,2026-04-22,Dr. Multi-Care,Hypertension
+184,47,163,Amlodipine,5mg daily,2026-04-21,2026-05-20,Dr. Multi-Care,Hypertension
+185,47,164,Amlodipine,5mg daily,2026-05-14,2026-06-26,Dr. Multi-Care,Hypertension
+186,47,165,Amlodipine,5mg daily,2026-05-19,2026-06-15,Dr. Multi-Care,Hypertension
+187,47,166,Amlodipine,5mg daily,2026-07-05,2026-07-12,Dr. Multi-Care,Hypertension
+188,48,167,Metformin,500mg BID,2025-07-24,2025-09-05,Dr. Multi-Care,Type 2 Diabetes Mellitus
+189,48,168,Metformin,500mg BID,2025-09-02,2025-09-13,Dr. Multi-Care,Type 2 Diabetes Mellitus
+190,49,169,Amlodipine,5mg daily,2026-05-20,2026-06-22,Dr. Multi-Care,Hypertension
+191,49,169,Salbutamol (1),Inhaler PRN,2026-05-20,2026-07-01,Dr. Multi-Care,Asthma
+192,49,170,Amlodipine,5mg daily,2026-07-08,2026-07-20,Dr. Multi-Care,Hypertension
+193,49,170,Salbutamol (1),Inhaler PRN,2026-07-08,2026-08-02,Dr. Multi-Care,Asthma
+194,49,170,Metformin (2),500mg BID,2026-07-08,2026-08-22,Dr. Multi-Care,Type 2 Diabetes Mellitus
+195,49,171,Amlodipine,5mg daily,2026-08-08,2026-09-07,Dr. Multi-Care,Hypertension
+196,49,171,Metformin (1),500mg BID,2026-08-08,2026-09-08,Dr. Multi-Care,Type 2 Diabetes Mellitus
+197,50,172,Metformin,500mg BID,2025-11-21,2026-01-02,Dr. Multi-Care,Type 2 Diabetes Mellitus
+198,50,173,Metformin,500mg BID,2026-01-23,2026-02-01,Dr. Multi-Care,Type 2 Diabetes Mellitus
+199,50,174,Metformin,500mg BID,2026-03-25,2026-04-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+200,51,176,Salbutamol,Inhaler PRN,2025-03-01,2025-04-11,Dr. Multi-Care,Asthma
+201,51,177,Salbutamol,Inhaler PRN,2025-06-12,2025-06-28,Dr. Multi-Care,Asthma
+202,52,178,Metformin,500mg BID,2026-07-15,2026-08-22,Dr. Multi-Care,Type 2 Diabetes Mellitus
+203,53,179,Amlodipine,5mg daily,2024-06-22,2024-07-30,Dr. Multi-Care,Hypertension
+204,53,180,Amlodipine,5mg daily,2024-09-12,2024-10-01,Dr. Multi-Care,Hypertension
+205,53,181,Amlodipine,5mg daily,2024-08-27,2024-10-05,Dr. Multi-Care,Hypertension
+206,53,182,Amlodipine,5mg daily,2025-01-27,2025-02-19,Dr. Multi-Care,Hypertension
+207,53,183,Amlodipine,5mg daily,2024-12-31,2025-01-20,Dr. Multi-Care,Hypertension
+208,54,184,Metformin,500mg BID,2024-06-15,2024-07-09,Dr. Multi-Care,Type 2 Diabetes Mellitus
+209,54,185,Metformin,500mg BID,2024-08-06,2024-09-14,Dr. Multi-Care,Type 2 Diabetes Mellitus
+210,55,186,Amlodipine,5mg daily,2025-01-26,2025-02-21,Dr. Multi-Care,Hypertension
+211,55,187,Amlodipine,5mg daily,2025-03-12,2025-04-06,Dr. Multi-Care,Hypertension
+212,55,188,Amlodipine,5mg daily,2025-04-28,2025-06-08,Dr. Multi-Care,Hypertension
+213,55,189,Amlodipine,5mg daily,2025-10-23,2025-11-15,Dr. Multi-Care,Hypertension
+214,56,190,Salbutamol,Inhaler PRN,2024-07-03,2024-07-28,Dr. Multi-Care,Asthma
+215,56,191,Salbutamol,Inhaler PRN,2024-08-05,2024-08-21,Dr. Multi-Care,Asthma
+216,56,192,Salbutamol,Inhaler PRN,2024-09-17,2024-10-15,Dr. Multi-Care,Asthma
+217,56,193,Salbutamol,Inhaler PRN,2025-01-29,2025-02-10,Dr. Multi-Care,Asthma
+218,56,194,Salbutamol,Inhaler PRN,2024-12-02,2024-12-29,Dr. Multi-Care,Asthma
+219,56,195,Salbutamol,Inhaler PRN,2024-12-05,2024-12-31,Dr. Multi-Care,Asthma
+220,57,196,Amlodipine,5mg daily,2026-06-18,2026-07-17,Dr. Multi-Care,Hypertension
+221,57,196,Amlodipine (1),5mg daily,2026-06-18,2026-07-07,Dr. Multi-Care,Hypertension
+222,57,196,Amlodipine (2),5mg daily,2026-06-18,2026-07-20,Dr. Multi-Care,Hypertension
+223,57,197,Amlodipine,5mg daily,2026-07-26,2026-09-05,Dr. Multi-Care,Hypertension
+224,57,197,Salbutamol (1),Inhaler PRN,2026-07-26,2026-08-05,Dr. Multi-Care,Asthma
+225,57,197,Salbutamol (2),Inhaler PRN,2026-07-26,2026-08-05,Dr. Multi-Care,Asthma
+226,57,198,Amlodipine,5mg daily,2026-08-23,2026-10-02,Dr. Multi-Care,Hypertension
+227,57,198,Salbutamol (1),Inhaler PRN,2026-08-23,2026-09-16,Dr. Multi-Care,Asthma
+228,58,199,Metformin,500mg BID,2025-03-18,2025-04-06,Dr. Multi-Care,Type 2 Diabetes Mellitus
+229,58,200,Metformin,500mg BID,2025-04-27,2025-06-09,Dr. Multi-Care,Type 2 Diabetes Mellitus
+230,59,201,Amlodipine,5mg daily,2026-03-24,2026-04-18,Dr. Multi-Care,Hypertension
+231,59,202,Amlodipine,5mg daily,2026-06-14,2026-06-29,Dr. Multi-Care,Hypertension
+232,59,203,Amlodipine,5mg daily,2026-08-15,2026-09-02,Dr. Multi-Care,Hypertension
+233,60,204,Metformin,500mg BID,2024-09-16,2024-10-21,Dr. Multi-Care,Type 2 Diabetes Mellitus
+234,60,205,Metformin,500mg BID,2024-11-07,2024-12-04,Dr. Multi-Care,Type 2 Diabetes Mellitus
+235,60,206,Metformin,500mg BID,2024-11-15,2024-12-27,Dr. Multi-Care,Type 2 Diabetes Mellitus
+236,60,207,Metformin,500mg BID,2024-12-15,2025-01-08,Dr. Multi-Care,Type 2 Diabetes Mellitus
+237,60,208,Metformin,500mg BID,2025-01-26,2025-02-22,Dr. Multi-Care,Type 2 Diabetes Mellitus
+238,61,210,Salbutamol,Inhaler PRN,2026-05-30,2026-06-12,Dr. Multi-Care,Asthma
+239,62,211,Metformin,500mg BID,2025-08-25,2025-09-27,Dr. Multi-Care,Type 2 Diabetes Mellitus
+240,62,212,Metformin,500mg BID,2025-09-12,2025-10-26,Dr. Multi-Care,Type 2 Diabetes Mellitus
+241,62,213,Metformin,500mg BID,2025-09-26,2025-11-09,Dr. Multi-Care,Type 2 Diabetes Mellitus
+242,62,214,Metformin,500mg BID,2025-10-15,2025-11-06,Dr. Multi-Care,Type 2 Diabetes Mellitus
+243,63,215,Amlodipine,5mg daily,2025-07-12,2025-08-23,Dr. Multi-Care,Hypertension
+244,63,216,Amlodipine,5mg daily,2025-08-04,2025-09-14,Dr. Multi-Care,Hypertension
+245,63,217,Amlodipine,5mg daily,2025-08-31,2025-10-11,Dr. Multi-Care,Hypertension
+246,63,218,Amlodipine,5mg daily,2025-08-26,2025-09-11,Dr. Multi-Care,Hypertension
+247,64,219,Metformin,500mg BID,2024-09-15,2024-10-06,Dr. Multi-Care,Type 2 Diabetes Mellitus
+248,64,220,Metformin,500mg BID,2024-10-03,2024-10-22,Dr. Multi-Care,Type 2 Diabetes Mellitus
+249,65,221,Amlodipine,5mg daily,2024-06-15,2024-07-24,Dr. Multi-Care,Hypertension
+250,65,221,Metformin (1),500mg BID,2024-06-15,2024-06-29,Dr. Multi-Care,Type 2 Diabetes Mellitus
+251,65,222,Amlodipine,5mg daily,2024-07-04,2024-08-11,Dr. Multi-Care,Hypertension
+252,65,222,Salbutamol (1),Inhaler PRN,2024-07-04,2024-08-16,Dr. Multi-Care,Asthma
+253,65,222,Amlodipine (2),5mg daily,2024-07-04,2024-08-02,Dr. Multi-Care,Hypertension
+254,65,223,Amlodipine,5mg daily,2024-07-21,2024-08-18,Dr. Multi-Care,Hypertension
+255,65,223,Metformin (1),500mg BID,2024-07-21,2024-08-18,Dr. Multi-Care,Type 2 Diabetes Mellitus
+256,65,224,Amlodipine,5mg daily,2024-08-26,2024-09-26,Dr. Multi-Care,Hypertension
+257,65,224,Metformin (1),500mg BID,2024-08-26,2024-09-09,Dr. Multi-Care,Type 2 Diabetes Mellitus
+258,65,224,Salbutamol (2),Inhaler PRN,2024-08-26,2024-09-18,Dr. Multi-Care,Asthma
+259,65,225,Amlodipine,5mg daily,2024-09-15,2024-10-02,Dr. Multi-Care,Hypertension
+260,65,225,Salbutamol (1),Inhaler PRN,2024-09-15,2024-10-26,Dr. Multi-Care,Asthma
+261,65,226,Amlodipine,5mg daily,2024-10-18,2024-11-23,Dr. Multi-Care,Hypertension
+262,65,226,Amlodipine (1),5mg daily,2024-10-18,2024-11-15,Dr. Multi-Care,Hypertension
+263,66,227,Salbutamol,Inhaler PRN,2025-01-29,2025-02-12,Dr. Multi-Care,Asthma
+264,66,228,Salbutamol,Inhaler PRN,2025-04-08,2025-05-03,Dr. Multi-Care,Asthma
+265,66,229,Salbutamol,Inhaler PRN,2025-07-04,2025-08-14,Dr. Multi-Care,Asthma
+266,66,230,Salbutamol,Inhaler PRN,2025-06-25,2025-07-24,Dr. Multi-Care,Asthma
+267,67,231,Amlodipine,5mg daily,2025-06-27,2025-08-09,Dr. Multi-Care,Hypertension
+268,67,232,Amlodipine,5mg daily,2025-09-24,2025-10-16,Dr. Multi-Care,Hypertension
+269,67,233,Amlodipine,5mg daily,2025-09-07,2025-10-21,Dr. Multi-Care,Hypertension
+270,68,234,Metformin,500mg BID,2025-06-11,2025-07-18,Dr. Multi-Care,Type 2 Diabetes Mellitus
+271,68,235,Metformin,500mg BID,2025-07-30,2025-09-09,Dr. Multi-Care,Type 2 Diabetes Mellitus
+272,68,236,Metformin,500mg BID,2025-09-03,2025-10-15,Dr. Multi-Care,Type 2 Diabetes Mellitus
+273,68,237,Metformin,500mg BID,2025-12-20,2026-01-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+274,69,238,Amlodipine,5mg daily,2025-07-13,2025-08-19,Dr. Multi-Care,Hypertension
+275,69,239,Amlodipine,5mg daily,2025-09-29,2025-10-29,Dr. Multi-Care,Hypertension
+276,70,240,Metformin,500mg BID,2026-07-14,2026-07-25,Dr. Multi-Care,Type 2 Diabetes Mellitus
+277,71,242,Salbutamol,Inhaler PRN,2025-04-25,2025-10-03,Dr. Multi-Care,Asthma
+278,71,243,Salbutamol,Inhaler PRN,2025-07-11,2025-11-08,Dr. Multi-Care,Asthma
+279,72,244,Metformin,500mg BID,2026-03-26,2026-08-09,Dr. Multi-Care,Type 2 Diabetes Mellitus
+280,72,245,Metformin,500mg BID,2026-06-02,2026-11-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+281,72,246,Metformin,500mg BID,2026-08-17,2027-01-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+282,72,247,Metformin,500mg BID,2026-08-17,2027-02-10,Dr. Multi-Care,Type 2 Diabetes Mellitus
+283,73,248,Amlodipine,5mg daily,2025-03-07,2025-08-08,Dr. Multi-Care,Hypertension
+284,73,248,Metformin (1),500mg BID,2025-03-07,2025-07-02,Dr. Multi-Care,Type 2 Diabetes Mellitus
+285,73,249,Amlodipine,5mg daily,2025-04-24,2025-09-19,Dr. Multi-Care,Hypertension
+286,73,249,Salbutamol (1),Inhaler PRN,2025-04-24,2025-08-28,Dr. Multi-Care,Asthma
+287,73,250,Amlodipine,5mg daily,2025-05-18,2025-11-04,Dr. Multi-Care,Hypertension
+288,73,250,Metformin (1),500mg BID,2025-05-18,2025-11-05,Dr. Multi-Care,Type 2 Diabetes Mellitus
+289,73,250,Metformin (2),500mg BID,2025-05-18,2025-09-17,Dr. Multi-Care,Type 2 Diabetes Mellitus
+290,73,251,Amlodipine,5mg daily,2025-08-01,2025-12-22,Dr. Multi-Care,Hypertension
+291,73,251,Salbutamol (1),Inhaler PRN,2025-08-01,2026-01-18,Dr. Multi-Care,Asthma
+292,73,251,Amlodipine (2),5mg daily,2025-08-01,2025-11-15,Dr. Multi-Care,Hypertension
+293,73,252,Amlodipine,5mg daily,2026-01-25,2026-07-22,Dr. Multi-Care,Hypertension
+294,73,252,Metformin (1),500mg BID,2026-01-25,2026-07-10,Dr. Multi-Care,Type 2 Diabetes Mellitus
+295,73,252,Amlodipine (2),5mg daily,2026-01-25,2026-07-20,Dr. Multi-Care,Hypertension
+296,74,253,Metformin,500mg BID,2025-05-31,2025-09-29,Dr. Multi-Care,Type 2 Diabetes Mellitus
+297,74,254,Metformin,500mg BID,2025-08-10,2025-11-26,Dr. Multi-Care,Type 2 Diabetes Mellitus
+298,74,255,Metformin,500mg BID,2025-11-23,2026-04-07,Dr. Multi-Care,Type 2 Diabetes Mellitus
+299,74,256,Metformin,500mg BID,2025-11-24,2026-05-08,Dr. Multi-Care,Type 2 Diabetes Mellitus
+300,74,257,Metformin,500mg BID,2025-12-01,2026-05-08,Dr. Multi-Care,Type 2 Diabetes Mellitus
+301,75,258,Amlodipine,5mg daily,2026-04-26,2026-09-06,Dr. Multi-Care,Hypertension
+302,75,259,Amlodipine,5mg daily,2026-07-08,2026-11-09,Dr. Multi-Care,Hypertension
+303,76,260,Salbutamol,Inhaler PRN,2024-07-31,2024-09-07,Dr. Multi-Care,Asthma
+304,76,261,Salbutamol,Inhaler PRN,2024-10-03,2024-10-21,Dr. Multi-Care,Asthma
+305,76,262,Salbutamol,Inhaler PRN,2025-01-03,2025-01-21,Dr. Multi-Care,Asthma
+306,77,263,Amlodipine,5mg daily,2025-05-09,2025-06-20,Dr. Multi-Care,Hypertension
+307,77,264,Amlodipine,5mg daily,2025-07-17,2025-08-01,Dr. Multi-Care,Hypertension
+308,77,265,Amlodipine,5mg daily,2025-10-20,2025-11-05,Dr. Multi-Care,Hypertension
+309,77,266,Amlodipine,5mg daily,2025-10-24,2025-11-16,Dr. Multi-Care,Hypertension
+310,77,267,Amlodipine,5mg daily,2025-12-27,2026-01-10,Dr. Multi-Care,Hypertension
+311,77,268,Amlodipine,5mg daily,2026-04-14,2026-05-09,Dr. Multi-Care,Hypertension
+312,78,269,Metformin,500mg BID,2024-11-06,2024-11-30,Dr. Multi-Care,Type 2 Diabetes Mellitus
+313,78,270,Metformin,500mg BID,2025-01-31,2025-02-12,Dr. Multi-Care,Type 2 Diabetes Mellitus
+314,78,271,Metformin,500mg BID,2025-01-31,2025-03-04,Dr. Multi-Care,Type 2 Diabetes Mellitus
+315,79,272,Amlodipine,5mg daily,2025-11-28,2025-12-07,Dr. Multi-Care,Hypertension
+316,79,273,Amlodipine,5mg daily,2026-01-17,2026-02-22,Dr. Multi-Care,Hypertension
+317,80,274,Metformin,500mg BID,2025-06-04,2025-07-14,Dr. Multi-Care,Type 2 Diabetes Mellitus
+318,80,275,Metformin,500mg BID,2025-07-26,2025-08-29,Dr. Multi-Care,Type 2 Diabetes Mellitus
+319,80,276,Metformin,500mg BID,2025-11-13,2025-12-14,Dr. Multi-Care,Type 2 Diabetes Mellitus
+320,80,277,Metformin,500mg BID,2025-09-17,2025-09-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+321,80,278,Metformin,500mg BID,2025-11-15,2025-12-26,Dr. Multi-Care,Type 2 Diabetes Mellitus
+322,80,279,Metformin,500mg BID,2026-01-30,2026-03-04,Dr. Multi-Care,Type 2 Diabetes Mellitus
+323,81,281,Salbutamol,Inhaler PRN,2025-06-21,2025-07-10,Dr. Multi-Care,Asthma
+324,81,281,Salbutamol (1),Inhaler PRN,2025-06-21,2025-07-27,Dr. Multi-Care,Asthma
+325,81,282,Salbutamol,Inhaler PRN,2025-06-25,2025-07-05,Dr. Multi-Care,Asthma
+326,81,282,Amlodipine (1),5mg daily,2025-06-25,2025-07-15,Dr. Multi-Care,Hypertension
+327,81,282,Salbutamol (2),Inhaler PRN,2025-06-25,2025-07-17,Dr. Multi-Care,Asthma
+328,81,283,Salbutamol,Inhaler PRN,2025-11-26,2026-01-10,Dr. Multi-Care,Asthma
+329,81,283,Metformin (1),500mg BID,2025-11-26,2025-12-12,Dr. Multi-Care,Type 2 Diabetes Mellitus
+330,81,283,Amlodipine (2),5mg daily,2025-11-26,2025-12-08,Dr. Multi-Care,Hypertension
+331,82,284,Metformin,500mg BID,2025-09-11,2025-10-10,Dr. Multi-Care,Type 2 Diabetes Mellitus
+332,82,285,Metformin,500mg BID,2025-10-23,2025-11-17,Dr. Multi-Care,Type 2 Diabetes Mellitus
+333,82,286,Metformin,500mg BID,2026-01-17,2026-01-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+334,82,287,Metformin,500mg BID,2026-05-15,2026-05-23,Dr. Multi-Care,Type 2 Diabetes Mellitus
+335,82,288,Metformin,500mg BID,2026-06-14,2026-07-26,Dr. Multi-Care,Type 2 Diabetes Mellitus
+336,82,289,Metformin,500mg BID,2026-06-18,2026-07-07,Dr. Multi-Care,Type 2 Diabetes Mellitus
+337,83,290,Amlodipine,5mg daily,2025-04-13,2025-04-20,Dr. Multi-Care,Hypertension
+338,83,291,Amlodipine,5mg daily,2025-06-13,2025-06-23,Dr. Multi-Care,Hypertension
+339,84,292,Metformin,500mg BID,2025-11-24,2026-01-03,Dr. Multi-Care,Type 2 Diabetes Mellitus
+340,84,293,Metformin,500mg BID,2026-02-22,2026-03-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+341,84,294,Metformin,500mg BID,2026-05-15,2026-06-11,Dr. Multi-Care,Type 2 Diabetes Mellitus
+342,84,295,Metformin,500mg BID,2026-08-03,2026-09-14,Dr. Multi-Care,Type 2 Diabetes Mellitus
+343,85,296,Amlodipine,5mg daily,2025-08-20,2025-09-10,Dr. Multi-Care,Hypertension
+344,85,297,Amlodipine,5mg daily,2025-11-16,2025-12-07,Dr. Multi-Care,Hypertension
+345,85,298,Amlodipine,5mg daily,2025-12-30,2026-01-12,Dr. Multi-Care,Hypertension
+346,85,299,Amlodipine,5mg daily,2026-04-05,2026-04-26,Dr. Multi-Care,Hypertension
+347,86,300,Salbutamol,Inhaler PRN,2024-11-12,2024-12-14,Dr. Multi-Care,Asthma
+348,86,301,Salbutamol,Inhaler PRN,2025-01-17,2025-01-27,Dr. Multi-Care,Asthma
+349,87,302,Amlodipine,5mg daily,2025-07-11,2025-08-20,Dr. Multi-Care,Hypertension
+350,87,303,Amlodipine,5mg daily,2025-09-28,2025-11-12,Dr. Multi-Care,Hypertension
+351,87,304,Amlodipine,5mg daily,2025-11-30,2025-12-19,Dr. Multi-Care,Hypertension
+352,87,305,Amlodipine,5mg daily,2026-02-24,2026-03-10,Dr. Multi-Care,Hypertension
+353,87,306,Amlodipine,5mg daily,2026-01-23,2026-02-08,Dr. Multi-Care,Hypertension
+354,87,307,Amlodipine,5mg daily,2026-04-07,2026-04-14,Dr. Multi-Care,Hypertension
+355,88,308,Metformin,500mg BID,2025-07-22,2025-08-18,Dr. Multi-Care,Type 2 Diabetes Mellitus
+356,88,309,Metformin,500mg BID,2025-08-26,2025-09-23,Dr. Multi-Care,Type 2 Diabetes Mellitus
+357,89,310,Amlodipine,5mg daily,2025-07-17,2025-08-17,Dr. Multi-Care,Hypertension
+358,89,310,Salbutamol (1),Inhaler PRN,2025-07-17,2025-07-25,Dr. Multi-Care,Asthma
+359,89,310,Amlodipine (2),5mg daily,2025-07-17,2025-08-10,Dr. Multi-Care,Hypertension
+360,89,311,Amlodipine,5mg daily,2025-09-27,2025-11-09,Dr. Multi-Care,Hypertension
+361,89,311,Metformin (1),500mg BID,2025-09-27,2025-10-13,Dr. Multi-Care,Type 2 Diabetes Mellitus
+362,89,312,Amlodipine,5mg daily,2025-10-27,2025-11-30,Dr. Multi-Care,Hypertension
+363,89,312,Salbutamol (1),Inhaler PRN,2025-10-27,2025-11-12,Dr. Multi-Care,Asthma
+364,89,313,Amlodipine,5mg daily,2025-12-14,2026-01-16,Dr. Multi-Care,Hypertension
+365,89,313,Metformin (1),500mg BID,2025-12-14,2026-01-09,Dr. Multi-Care,Type 2 Diabetes Mellitus
+366,89,313,Amlodipine (2),5mg daily,2025-12-14,2026-01-07,Dr. Multi-Care,Hypertension
+367,89,314,Amlodipine,5mg daily,2025-12-28,2026-01-12,Dr. Multi-Care,Hypertension
+368,89,314,Salbutamol (1),Inhaler PRN,2025-12-28,2026-02-05,Dr. Multi-Care,Asthma
+369,89,314,Salbutamol (2),Inhaler PRN,2025-12-28,2026-02-03,Dr. Multi-Care,Asthma
+370,90,315,Metformin,500mg BID,2025-04-07,2025-05-10,Dr. Multi-Care,Type 2 Diabetes Mellitus
+371,90,316,Metformin,500mg BID,2025-05-19,2025-05-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+372,90,317,Metformin,500mg BID,2025-08-21,2025-08-30,Dr. Multi-Care,Type 2 Diabetes Mellitus
+373,90,318,Metformin,500mg BID,2025-12-09,2026-01-04,Dr. Multi-Care,Type 2 Diabetes Mellitus
+374,90,319,Metformin,500mg BID,2026-02-17,2026-03-24,Dr. Multi-Care,Type 2 Diabetes Mellitus
+375,91,321,Salbutamol,Inhaler PRN,2024-09-13,2024-10-22,Dr. Multi-Care,Asthma
+376,91,322,Salbutamol,Inhaler PRN,2024-11-02,2024-11-20,Dr. Multi-Care,Asthma
+377,92,323,Metformin,500mg BID,2025-10-11,2025-10-18,Dr. Multi-Care,Type 2 Diabetes Mellitus
+378,92,324,Metformin,500mg BID,2025-12-14,2026-01-25,Dr. Multi-Care,Type 2 Diabetes Mellitus
+379,92,325,Metformin,500mg BID,2026-01-13,2026-02-25,Dr. Multi-Care,Type 2 Diabetes Mellitus
+380,92,326,Metformin,500mg BID,2026-07-02,2026-08-13,Dr. Multi-Care,Type 2 Diabetes Mellitus
+381,93,327,Amlodipine,5mg daily,2025-05-14,2025-06-25,Dr. Multi-Care,Hypertension
+382,93,328,Amlodipine,5mg daily,2025-06-20,2025-07-02,Dr. Multi-Care,Hypertension
+383,93,329,Amlodipine,5mg daily,2025-11-08,2025-12-21,Dr. Multi-Care,Hypertension
+384,94,330,Metformin,500mg BID,2025-04-06,2025-04-26,Dr. Multi-Care,Type 2 Diabetes Mellitus
+385,94,331,Metformin,500mg BID,2025-06-01,2025-06-24,Dr. Multi-Care,Type 2 Diabetes Mellitus
+386,94,332,Metformin,500mg BID,2025-09-13,2025-09-21,Dr. Multi-Care,Type 2 Diabetes Mellitus
+387,94,333,Metformin,500mg BID,2025-12-11,2026-01-21,Dr. Multi-Care,Type 2 Diabetes Mellitus
+388,94,334,Metformin,500mg BID,2026-03-20,2026-05-02,Dr. Multi-Care,Type 2 Diabetes Mellitus
+389,95,335,Amlodipine,5mg daily,2026-06-17,2026-08-01,Dr. Multi-Care,Hypertension
+390,95,336,Amlodipine,5mg daily,2026-08-05,2026-08-23,Dr. Multi-Care,Hypertension
+391,96,337,Salbutamol,Inhaler PRN,2024-06-18,2024-07-28,Dr. Multi-Care,Asthma
+392,96,338,Salbutamol,Inhaler PRN,2024-09-05,2024-10-20,Dr. Multi-Care,Asthma
+393,97,339,Amlodipine,5mg daily,2025-09-16,2025-10-10,Dr. Multi-Care,Hypertension
+394,97,339,Metformin (1),500mg BID,2025-09-16,2025-10-27,Dr. Multi-Care,Type 2 Diabetes Mellitus
+395,97,339,Salbutamol (2),Inhaler PRN,2025-09-16,2025-10-21,Dr. Multi-Care,Asthma
+396,97,340,Amlodipine,5mg daily,2025-10-23,2025-11-03,Dr. Multi-Care,Hypertension
+397,97,340,Salbutamol (1),Inhaler PRN,2025-10-23,2025-11-18,Dr. Multi-Care,Asthma
+398,98,341,Metformin,500mg BID,2026-04-12,2026-05-26,Dr. Multi-Care,Type 2 Diabetes Mellitus
+399,98,342,Metformin,500mg BID,2026-06-09,2026-06-24,Dr. Multi-Care,Type 2 Diabetes Mellitus
+400,99,343,Amlodipine,5mg daily,2024-09-07,2024-09-23,Dr. Multi-Care,Hypertension
+401,99,344,Amlodipine,5mg daily,2024-12-04,2025-01-10,Dr. Multi-Care,Hypertension
+402,100,345,Metformin,500mg BID,2026-03-02,2026-03-13,Dr. Multi-Care,Type 2 Diabetes Mellitus
+403,100,346,Metformin,500mg BID,2026-04-26,2026-05-30,Dr. Multi-Care,Type 2 Diabetes Mellitus
+404,100,347,Metformin,500mg BID,2026-07-12,2026-08-25,Dr. Multi-Care,Type 2 Diabetes Mellitus
+405,100,348,Metformin,500mg BID,2026-06-18,2026-06-28,Dr. Multi-Care,Type 2 Diabetes Mellitus
+406,100,349,Metformin,500mg BID,2026-07-20,2026-08-24,Dr. Multi-Care,Type 2 Diabetes Mellitus

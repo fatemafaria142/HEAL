@@ -1,0 +1,380 @@
+visit_id,patient_id,visit_date,visit_type,hospital,department,reason_for_visit,discharge_status,created_at
+1,1,2026-04-27,OPD,Evercare,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+2,1,2026-07-26,Emergency,Dhaka Medical,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+3,2,2024-10-14,OPD,Dhaka Medical,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+4,2,2025-01-09,OPD,Square,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+5,3,2025-08-22,OPD,Evercare,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+6,3,2025-10-23,OPD,Evercare,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+7,4,2025-04-20,Inpatient,United,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+8,4,2025-06-27,Emergency,United,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+9,5,2025-06-09,OPD,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+10,5,2025-07-14,Inpatient,Dhaka Medical,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+11,5,2025-12-06,Inpatient,Dhaka Medical,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+12,6,2025-01-13,Inpatient,Evercare,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+13,6,2025-02-23,OPD,Evercare,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+14,6,2025-04-03,Emergency,Square,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+15,6,2025-08-17,Inpatient,United,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+16,7,2024-10-09,OPD,Apollo,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+17,7,2024-12-09,Inpatient,Apollo,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+18,7,2025-01-31,OPD,United,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+19,7,2025-06-09,Inpatient,Square,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+20,7,2025-04-03,Emergency,Apollo,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+21,7,2025-11-23,OPD,Apollo,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+22,8,2024-07-12,Inpatient,Evercare,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+23,8,2024-08-15,Emergency,United,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+24,8,2024-10-28,Inpatient,Evercare,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+25,8,2024-10-28,Emergency,Dhaka Medical,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+26,8,2025-02-13,Inpatient,Square,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+27,9,2026-03-23,OPD,Evercare,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+28,9,2026-05-15,OPD,Square,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+29,10,2026-07-16,Emergency,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+30,11,2025-12-27,OPD,Square,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+31,11,2026-02-21,OPD,Apollo,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+32,11,2026-04-02,OPD,Apollo,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+33,11,2026-04-30,Inpatient,Dhaka Medical,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+34,12,2025-04-27,OPD,United,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+35,12,2025-06-23,OPD,Square,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+36,12,2025-09-10,OPD,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+37,12,2025-11-02,Emergency,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+38,13,2025-12-20,OPD,Evercare,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+39,13,2026-03-11,OPD,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+40,13,2026-05-11,OPD,Square,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+41,13,2026-05-31,Emergency,Apollo,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+42,14,2025-09-29,OPD,Square,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+43,14,2025-11-20,Inpatient,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+44,14,2026-02-22,Inpatient,Dhaka Medical,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+45,14,2026-06-26,Emergency,Square,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+46,15,2025-03-11,OPD,Square,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+47,15,2025-04-14,Inpatient,Apollo,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+48,15,2025-08-26,OPD,Apollo,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+49,15,2025-09-04,OPD,Evercare,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+50,15,2025-09-27,OPD,United,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+51,16,2026-04-18,OPD,Square,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+52,16,2026-06-04,OPD,Square,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+53,17,2025-01-23,OPD,Dhaka Medical,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+54,17,2025-03-04,Inpatient,United,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+55,17,2025-04-07,Emergency,United,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+56,17,2025-07-25,Inpatient,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+57,18,2025-11-04,OPD,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+58,18,2026-01-05,Inpatient,Evercare,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+59,18,2026-03-14,Emergency,Apollo,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+60,18,2026-02-26,Emergency,Evercare,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+61,18,2026-07-18,Inpatient,Evercare,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+62,19,2025-01-09,OPD,Evercare,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+63,19,2025-02-15,OPD,Dhaka Medical,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+64,19,2025-06-08,OPD,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+65,19,2025-07-20,Emergency,Square,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+66,19,2025-11-01,Inpatient,Square,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+67,19,2026-02-23,Emergency,Apollo,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+68,20,2025-11-19,Emergency,Apollo,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+69,20,2026-01-14,Emergency,United,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+70,20,2026-03-19,OPD,Square,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+71,20,2026-02-23,OPD,United,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+72,20,2026-03-19,Emergency,Evercare,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+73,20,2026-06-17,OPD,Square,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+74,21,2024-12-06,Inpatient,United,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+75,21,2025-01-20,Inpatient,Square,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+76,21,2025-04-09,Emergency,Dhaka Medical,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+77,22,2024-07-09,OPD,Apollo,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+78,22,2024-08-18,Emergency,Evercare,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+79,22,2024-12-18,OPD,United,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+80,22,2025-01-26,OPD,Dhaka Medical,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+81,22,2024-11-14,Emergency,United,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+82,23,2026-04-09,Emergency,Dhaka Medical,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+83,23,2026-06-24,Inpatient,Evercare,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+84,24,2025-12-20,OPD,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+85,24,2026-03-08,OPD,Apollo,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+86,25,2024-10-16,OPD,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+87,25,2024-12-04,Inpatient,Apollo,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+88,25,2024-12-25,Inpatient,Square,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+89,26,2026-01-22,Emergency,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+90,26,2026-03-08,Emergency,Square,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+91,26,2026-05-20,OPD,United,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+92,26,2026-05-19,OPD,Square,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+93,26,2026-07-25,Inpatient,United,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+94,27,2024-10-08,OPD,United,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+95,27,2025-01-05,Inpatient,United,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+96,28,2026-05-06,OPD,Evercare,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+97,28,2026-07-11,OPD,Apollo,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+98,28,2026-07-11,OPD,Apollo,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+99,29,2026-01-19,Inpatient,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+100,29,2026-04-07,Inpatient,Dhaka Medical,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+101,29,2026-06-28,OPD,Evercare,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+102,30,2025-04-08,Emergency,Evercare,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+103,30,2025-05-13,Emergency,Apollo,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+104,30,2025-07-23,Emergency,Dhaka Medical,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+105,30,2025-10-29,Emergency,United,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+106,30,2025-09-15,OPD,Square,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+107,31,2024-08-15,Inpatient,Evercare,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+108,31,2024-11-05,OPD,Square,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+109,31,2025-01-16,Inpatient,Evercare,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+110,32,2024-08-09,OPD,United,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+111,32,2024-10-23,Inpatient,United,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+112,33,2024-09-04,OPD,Dhaka Medical,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+113,33,2024-11-06,OPD,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+114,33,2025-01-08,Inpatient,Square,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+115,33,2025-05-29,OPD,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+116,34,2026-01-25,OPD,Evercare,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+117,34,2026-04-03,Inpatient,Evercare,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+118,34,2026-06-20,OPD,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+119,35,2025-04-12,OPD,Evercare,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+120,35,2025-06-16,Inpatient,United,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+121,35,2025-06-15,Emergency,Apollo,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+122,36,2024-07-06,Inpatient,Evercare,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+123,36,2024-09-26,OPD,United,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+124,37,2026-01-24,OPD,Evercare,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+125,37,2026-03-03,Inpatient,Dhaka Medical,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+126,37,2026-04-28,Inpatient,United,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+127,38,2025-04-11,OPD,Dhaka Medical,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+128,38,2025-05-29,Emergency,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+129,38,2025-08-29,Inpatient,Dhaka Medical,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+130,38,2025-08-30,OPD,Square,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+131,38,2026-02-09,OPD,United,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+132,39,2024-09-12,Inpatient,Dhaka Medical,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+133,39,2024-11-29,OPD,Apollo,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+134,39,2025-01-28,Inpatient,Apollo,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+135,39,2025-04-13,OPD,Apollo,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+136,39,2025-06-23,OPD,Apollo,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+137,40,2025-07-23,Inpatient,Square,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+138,40,2025-09-09,Inpatient,United,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+139,40,2025-11-24,OPD,Apollo,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+140,41,2026-04-27,OPD,Square,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+141,41,2026-07-18,Emergency,Apollo,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+142,41,2026-08-11,OPD,United,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+143,41,2026-08-01,Inpatient,Square,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+144,42,2025-01-15,OPD,Evercare,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+145,42,2025-03-05,Emergency,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+146,43,2024-08-03,OPD,Apollo,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+147,43,2024-10-14,Inpatient,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+148,43,2024-10-06,OPD,Evercare,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+149,44,2025-01-19,Inpatient,Apollo,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+150,44,2025-04-08,OPD,Apollo,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+151,44,2025-05-15,Emergency,United,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+152,44,2025-06-24,Inpatient,Evercare,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+153,44,2025-10-06,OPD,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+154,44,2026-01-09,OPD,Evercare,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+155,45,2026-04-20,Inpatient,Dhaka Medical,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+156,45,2026-05-29,OPD,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+157,46,2025-12-11,OPD,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+158,46,2026-01-24,OPD,Square,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+159,46,2026-05-24,OPD,Apollo,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+160,46,2026-05-15,Emergency,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+161,47,2026-01-11,Inpatient,Dhaka Medical,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+162,47,2026-03-27,OPD,Dhaka Medical,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+163,47,2026-04-21,OPD,Apollo,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+164,47,2026-05-14,Inpatient,Square,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+165,47,2026-05-19,OPD,Evercare,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+166,47,2026-07-05,Emergency,United,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+167,48,2025-07-24,Inpatient,Apollo,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+168,48,2025-09-02,Inpatient,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+169,49,2026-05-20,Inpatient,Dhaka Medical,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+170,49,2026-07-08,OPD,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+171,49,2026-08-08,Emergency,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+172,50,2025-11-21,OPD,Apollo,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+173,50,2026-01-23,Inpatient,Evercare,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+174,50,2026-03-25,OPD,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+175,51,2024-12-22,Emergency,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+176,51,2025-03-01,Inpatient,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+177,51,2025-06-12,Emergency,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+178,52,2026-07-15,Emergency,Apollo,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+179,53,2024-06-22,Emergency,Square,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+180,53,2024-09-12,OPD,Evercare,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+181,53,2024-08-27,OPD,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+182,53,2025-01-27,OPD,Apollo,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+183,53,2024-12-31,OPD,United,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+184,54,2024-06-15,OPD,United,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+185,54,2024-08-06,Inpatient,Square,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+186,55,2025-01-26,Emergency,Square,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+187,55,2025-03-12,OPD,Evercare,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+188,55,2025-04-28,Inpatient,United,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+189,55,2025-10-23,Emergency,Evercare,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+190,56,2024-07-03,OPD,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+191,56,2024-08-05,OPD,United,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+192,56,2024-09-17,OPD,Square,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+193,56,2025-01-29,OPD,Dhaka Medical,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+194,56,2024-12-02,Inpatient,United,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+195,56,2024-12-05,OPD,Apollo,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+196,57,2026-06-18,OPD,Square,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+197,57,2026-07-26,OPD,Dhaka Medical,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+198,57,2026-08-23,OPD,United,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+199,58,2025-03-18,OPD,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+200,58,2025-04-27,OPD,Evercare,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+201,59,2026-03-24,OPD,Evercare,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+202,59,2026-06-14,OPD,Dhaka Medical,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+203,59,2026-08-15,OPD,Square,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+204,60,2024-09-16,Inpatient,United,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+205,60,2024-11-07,OPD,Apollo,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+206,60,2024-11-15,OPD,Square,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+207,60,2024-12-15,OPD,Evercare,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+208,60,2025-01-26,OPD,Evercare,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+209,61,2026-05-10,Inpatient,Dhaka Medical,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+210,61,2026-05-30,Emergency,Dhaka Medical,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+211,62,2025-08-25,Emergency,Evercare,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+212,62,2025-09-12,OPD,United,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+213,62,2025-09-26,Inpatient,United,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+214,62,2025-10-15,OPD,Apollo,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+215,63,2025-07-12,Emergency,United,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+216,63,2025-08-04,OPD,Apollo,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+217,63,2025-08-31,Emergency,Dhaka Medical,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+218,63,2025-08-26,OPD,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+219,64,2024-09-15,OPD,Evercare,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+220,64,2024-10-03,Emergency,Dhaka Medical,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+221,65,2024-06-15,OPD,Square,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+222,65,2024-07-04,OPD,Apollo,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+223,65,2024-07-21,OPD,Evercare,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+224,65,2024-08-26,Inpatient,Evercare,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+225,65,2024-09-15,Emergency,Evercare,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+226,65,2024-10-18,OPD,United,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+227,66,2025-01-29,OPD,Square,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+228,66,2025-04-08,OPD,Evercare,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+229,66,2025-07-04,Inpatient,United,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+230,66,2025-06-25,Emergency,Dhaka Medical,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+231,67,2025-06-27,OPD,Apollo,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+232,67,2025-09-24,Inpatient,Evercare,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+233,67,2025-09-07,Emergency,Evercare,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+234,68,2025-06-11,OPD,Square,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+235,68,2025-07-30,Inpatient,Evercare,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+236,68,2025-09-03,Emergency,Dhaka Medical,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+237,68,2025-12-20,Inpatient,Apollo,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+238,69,2025-07-13,OPD,Apollo,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+239,69,2025-09-29,Inpatient,Apollo,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+240,70,2026-07-14,Emergency,Dhaka Medical,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+241,71,2025-03-13,Emergency,Square,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+242,71,2025-04-25,OPD,Apollo,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+243,71,2025-07-11,OPD,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+244,72,2026-03-26,OPD,Square,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+245,72,2026-06-02,Inpatient,United,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+246,72,2026-08-17,Emergency,Apollo,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+247,72,2026-08-17,OPD,United,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+248,73,2025-03-07,Emergency,Dhaka Medical,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+249,73,2025-04-24,Inpatient,Square,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+250,73,2025-05-18,OPD,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+251,73,2025-08-01,Emergency,United,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+252,73,2026-01-25,OPD,Apollo,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+253,74,2025-05-31,OPD,Evercare,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+254,74,2025-08-10,OPD,Apollo,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+255,74,2025-11-23,OPD,Evercare,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+256,74,2025-11-24,Inpatient,Evercare,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+257,74,2025-12-01,Emergency,United,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+258,75,2026-04-26,OPD,United,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+259,75,2026-07-08,Emergency,Dhaka Medical,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+260,76,2024-07-31,Emergency,Apollo,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+261,76,2024-10-03,OPD,United,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+262,76,2025-01-03,Emergency,United,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+263,77,2025-05-09,OPD,Dhaka Medical,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+264,77,2025-07-17,Emergency,Square,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+265,77,2025-10-20,OPD,Square,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+266,77,2025-10-24,Inpatient,Apollo,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+267,77,2025-12-27,Emergency,Square,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+268,77,2026-04-14,OPD,Evercare,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+269,78,2024-11-06,Emergency,United,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:41
+270,78,2025-01-31,Inpatient,Square,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+271,78,2025-01-31,OPD,United,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+272,79,2025-11-28,OPD,Dhaka Medical,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:41
+273,79,2026-01-17,Inpatient,United,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+274,80,2025-06-04,Emergency,Square,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+275,80,2025-07-26,Emergency,United,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+276,80,2025-11-13,Emergency,Evercare,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+277,80,2025-09-17,Inpatient,Apollo,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+278,80,2025-11-15,OPD,Square,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+279,80,2026-01-30,Emergency,Apollo,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+280,81,2025-03-31,Inpatient,Dhaka Medical,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+281,81,2025-06-21,Inpatient,Dhaka Medical,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+282,81,2025-06-25,Inpatient,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+283,81,2025-11-26,Emergency,Evercare,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+284,82,2025-09-11,OPD,Dhaka Medical,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+285,82,2025-10-23,OPD,United,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:41
+286,82,2026-01-17,Inpatient,Apollo,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+287,82,2026-05-15,Emergency,Evercare,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:41
+288,82,2026-06-14,Emergency,Evercare,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:41
+289,82,2026-06-18,Emergency,Dhaka Medical,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:41
+290,83,2025-04-13,OPD,Dhaka Medical,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+291,83,2025-06-13,OPD,United,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:41
+292,84,2025-11-24,OPD,Dhaka Medical,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:41
+293,84,2026-02-22,OPD,Evercare,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+294,84,2026-05-15,OPD,Apollo,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:41
+295,84,2026-08-03,Emergency,United,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:41
+296,85,2025-08-20,Inpatient,United,Cardiology,Symptom Management,Discharged,2026-08-23 15:29:42
+297,85,2025-11-16,OPD,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:42
+298,85,2025-12-30,Inpatient,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:42
+299,85,2026-04-05,Inpatient,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:42
+300,86,2024-11-12,Inpatient,Dhaka Medical,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:42
+301,86,2025-01-17,OPD,Apollo,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:42
+302,87,2025-07-11,OPD,United,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:42
+303,87,2025-09-28,Inpatient,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+304,87,2025-11-30,OPD,Square,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:42
+305,87,2026-02-24,OPD,Dhaka Medical,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+306,87,2026-01-23,Inpatient,United,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:42
+307,87,2026-04-07,OPD,Square,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+308,88,2025-07-22,Emergency,Square,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+309,88,2025-08-26,OPD,Apollo,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:42
+310,89,2025-07-17,OPD,Dhaka Medical,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:42
+311,89,2025-09-27,OPD,Dhaka Medical,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:42
+312,89,2025-10-27,Inpatient,Evercare,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+313,89,2025-12-14,OPD,Evercare,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+314,89,2025-12-28,OPD,Evercare,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:42
+315,90,2025-04-07,OPD,Apollo,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+316,90,2025-05-19,OPD,Dhaka Medical,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:42
+317,90,2025-08-21,Inpatient,Square,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:42
+318,90,2025-12-09,OPD,Apollo,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:42
+319,90,2026-02-17,Emergency,United,Endocrinology,Annual Checkup,Discharged,2026-08-23 15:29:42
+320,91,2024-06-17,OPD,United,Internal Med,Annual Checkup,Discharged,2026-08-23 15:29:42
+321,91,2024-09-13,OPD,Dhaka Medical,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+322,91,2024-11-02,OPD,United,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:42
+323,92,2025-10-11,Inpatient,Square,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+324,92,2025-12-14,OPD,Evercare,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:42
+325,92,2026-01-13,OPD,Dhaka Medical,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+326,92,2026-07-02,OPD,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:42
+327,93,2025-05-14,Emergency,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:42
+328,93,2025-06-20,Emergency,Square,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:42
+329,93,2025-11-08,Emergency,United,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:42
+330,94,2025-04-06,OPD,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:42
+331,94,2025-06-01,OPD,Square,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:42
+332,94,2025-09-13,OPD,Square,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:42
+333,94,2025-12-11,Emergency,United,Internal Med,Routine Follow-up,Discharged,2026-08-23 15:29:42
+334,94,2026-03-20,Emergency,United,Internal Med,Symptom Management,Discharged,2026-08-23 15:29:42
+335,95,2026-06-17,Emergency,Dhaka Medical,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:42
+336,95,2026-08-05,Emergency,Dhaka Medical,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:42
+337,96,2024-06-18,OPD,United,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:42
+338,96,2024-09-05,OPD,Evercare,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+339,97,2025-09-16,OPD,Dhaka Medical,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+340,97,2025-10-23,OPD,Evercare,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+341,98,2026-04-12,Inpatient,Dhaka Medical,Cardiology,Annual Checkup,Discharged,2026-08-23 15:29:42
+342,98,2026-06-09,Emergency,Square,Pulmonology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+343,99,2024-09-07,OPD,United,Pulmonology,Symptom Management,Discharged,2026-08-23 15:29:42
+344,99,2024-12-04,Emergency,United,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:42
+345,100,2026-03-02,Emergency,Evercare,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:42
+346,100,2026-04-26,Inpatient,Apollo,Endocrinology,Symptom Management,Discharged,2026-08-23 15:29:42
+347,100,2026-07-12,Emergency,Evercare,Endocrinology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+348,100,2026-06-18,Inpatient,Apollo,Pulmonology,Annual Checkup,Discharged,2026-08-23 15:29:42
+349,100,2026-07-20,OPD,Apollo,Cardiology,Routine Follow-up,Discharged,2026-08-23 15:29:42
+350,1,2026-08-12,Emergency,Evercare,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+351,2,2026-08-10,OPD,Square,Cardiology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+352,3,2026-08-11,OPD,Square,Cardiology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+353,4,2026-08-09,OPD,Apollo,Internal Med,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+354,5,2026-08-13,OPD,Apollo,Cardiology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+355,6,2026-08-18,OPD,Apollo,Internal Med,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+356,7,2026-08-05,Emergency,United,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+357,8,2026-08-06,Emergency,United,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+358,9,2026-07-31,OPD,Apollo,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+359,10,2026-07-30,OPD,Evercare,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+360,11,2026-08-07,Emergency,United,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+361,12,2026-07-30,Emergency,Dhaka Medical,Internal Med,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+362,13,2026-08-22,Emergency,United,Cardiology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+363,14,2026-08-14,Emergency,Dhaka Medical,Cardiology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+364,15,2026-08-14,OPD,United,Endocrinology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+365,16,2026-07-27,OPD,United,Internal Med,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+366,17,2026-07-30,Emergency,Dhaka Medical,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+367,18,2026-07-30,OPD,United,Internal Med,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+368,19,2026-08-08,Emergency,Square,Cardiology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+369,20,2026-08-02,Emergency,Square,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+370,21,2026-07-30,OPD,Evercare,Endocrinology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+371,22,2026-08-22,Emergency,Dhaka Medical,Cardiology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+372,23,2026-08-03,OPD,Dhaka Medical,Endocrinology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+373,24,2026-08-01,OPD,Dhaka Medical,Endocrinology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+374,25,2026-08-14,Emergency,Square,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+375,26,2026-08-21,Emergency,Square,Endocrinology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+376,27,2026-08-07,OPD,Apollo,Internal Med,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+377,28,2026-08-20,OPD,Evercare,Pulmonology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+378,29,2026-08-21,Emergency,Square,Endocrinology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42
+379,30,2026-08-09,Emergency,Dhaka Medical,Endocrinology,Hypertension follow-up / BP check,Discharged,2026-08-23 15:29:42

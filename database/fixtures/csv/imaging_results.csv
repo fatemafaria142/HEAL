@@ -1,0 +1,15 @@
+imaging_id,patient_id,visit_id,imaging_type,body_site,findings,imaging_date
+1,1,1,Ultrasound,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2026-04-27
+2,13,38,MRI,Brain,Research Case J8: Evaluation post-hypertension diagnosis,2025-12-20
+3,25,86,MRI,Brain,Research Case J8: Evaluation post-hypertension diagnosis,2024-10-16
+4,31,108,X-ray,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2024-11-05
+5,32,111,CT scan,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2024-10-23
+6,33,113,MRI,Brain,Research Case J8: Evaluation post-hypertension diagnosis,2024-11-06
+7,34,117,CT scan,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2026-04-03
+8,35,120,X-ray,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2025-06-16
+9,37,124,CT scan,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2026-01-24
+10,49,169,X-ray,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2026-05-20
+11,61,209,Ultrasound,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2026-05-10
+12,73,248,CT scan,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2025-03-07
+13,85,296,X-ray,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2025-08-20
+14,97,339,X-ray,Abdomen,Research Case J8: Evaluation post-hypertension diagnosis,2025-09-16

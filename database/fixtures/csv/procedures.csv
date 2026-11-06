@@ -1,0 +1,11 @@
+procedure_id,patient_id,visit_id,procedure_date,procedure_name,procedure_code,performing_clinician
+1,1,2,2026-07-26,ECG,93000,Dr. Surgeon
+2,11,31,2026-02-21,ECG,93000,Dr. Surgeon
+3,21,75,2025-01-20,ECG,93000,Dr. Surgeon
+4,31,108,2024-11-05,ECG,93000,Dr. Surgeon
+5,41,141,2026-07-18,ECG,93000,Dr. Surgeon
+6,51,176,2025-03-01,ECG,93000,Dr. Surgeon
+7,61,210,2026-05-30,ECG,93000,Dr. Surgeon
+8,71,242,2025-04-25,ECG,93000,Dr. Surgeon
+9,81,281,2025-06-21,ECG,93000,Dr. Surgeon
+10,91,321,2024-09-13,ECG,93000,Dr. Surgeon
